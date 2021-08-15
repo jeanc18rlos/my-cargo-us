@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Index = () => {
-  return <>ssssssss</>
+  return <>sssssssss</>
 }
 
 export default Index
