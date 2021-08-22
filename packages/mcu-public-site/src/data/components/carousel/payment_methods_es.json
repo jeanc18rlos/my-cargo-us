@@ -1,0 +1,33 @@
+{
+    "id": "payment_method_es",
+    "content_type": "carousel",
+    "title": "Métodos De pago",
+    "desc": "<p> Pagar tus envíos es muy fácil y conveniente, elige el método de pago que se adapte mejor a tí. Para ello, puedes:</p><div><ul><li>Realizar el pago de tus envíos en moneda americana USD$ mediante transferencia bancaria al BANK OF AMERICA.</li><li>Pagar tus encomiendas rápido y cómodo en dólares americanos vía ZELLE.</li><li>Pagar de manera rápida y favorable en dólares americanos a través de la Plataforma Electronica de Pagos    PAYPAL. </li><li>Paga de manera rapida, barata y conveniente desde cualquier parte y moneda del mundo con la Plataforma de    Pagos en la Nube AIRTM.</li><li>Pagar tus envíos en moneda local por Transferencia Bancaria (En Bolívares solo para Venezuela al Banco    BANESCO, o en Pesos Chilenos al BANCO ESTADO de Chile).</li></ul></div><p> Al registrarte y hacer tus envíos te daremos los detalles de las cuentas bancarias y datos de correo para que hagas efectivo tus pagos y empieces a disfrutar de tu Casillero Internacional en los EE.UU con My Cargo US.</p><p> Si aún no te has registrado hazlo ahora haciendo click en el siguiente enlace.</p>",
+    "subTitle": "Ahora es más fácil pagar tu factura",
+    "slides": [
+        {
+            "image": "/payment_methods/1.png",
+            "label": "Paypal"
+        },
+        {
+            "image": "/payment_methods/2.png",
+            "label": "Zelle"
+        },
+        {
+            "image": "/payment_methods/3.png",
+            "label": "Bank of America"
+        },
+        {
+            "image": "/payment_methods/4.png",
+            "label": "Airtm"
+        },
+        {
+            "image": "/payment_methods/5.png",
+            "label": "Banesco"
+        },
+        {
+            "image": "/payment_methods/6.png",
+            "label": "Banco Estado"
+        }
+    ]
+}

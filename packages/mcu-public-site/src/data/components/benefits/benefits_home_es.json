@@ -1,0 +1,42 @@
+{
+    "id": "benefits_home_es",
+    "content_type": "benefit",
+    "background": "/about/about-home.jpeg",
+    "title": "Beneficios enviar con nostros",
+    "label": "Bienes enviados",
+    "list": [
+        {
+            "title": "Acceso a las Principales Tiendas en Linea de los EE.UU.",
+            "content": "Tenga acceso directo a las principales tiendas de compra en línea, y envíe sus compras directamente a la dirección de su Casillero Internacional en los EE.UU."
+        },
+        {
+            "title": "Consolidación de Paquetes",
+            "content": "Adquiera servicios de cuidado, reempaque y consolidación de paquetes y carga, y ahorre hasta un 80% con la consolidación de sus envíos."
+        },
+        {
+            "title": "Servicio de Despacho de Aduana",
+            "content": "Mantenga un servicio de agente de aduanas y cumplimiento que procese el papeleo de exportación para usted."
+        },
+        {
+            "title": "Notificación de Seguimiento",
+            "content": "Mantenga el control y seguimiento de sus mercancías en nuestro estatus de rastreo de productos en tiempo real."
+        },
+        {
+            "title": "Facil Registro",
+            "content": "Regístrese y obtenga su dirección de envío de EE.UU, en cuestión de segundos."
+        },
+        {
+            "title": "Envíos Aéreos y Marítimos Todas las Semanas",
+            "content": "Haga envíos directamente a Venezuela, a Latinoamérica ó a cualquier parte del mundo, con salidas todas las semanas."
+        },
+        {
+            "title": "Entrega a Domicilio",
+            "content": "Reciba sus paquetes y carga en la comodidad de su casa, empresa u oficina, como tambien en la oficina de los agentes de despacho mas cercana a su domicilio."
+        },
+        {
+            "title": "Envío de Carga Adaptada a sus Necesidades",
+            "content": "Envíe, con capacidad ilimitada, documentos, paquetes, mercancías ó carga de diversas formas, pesos y tamaños tanto por vía aérea como marítima."
+        }
+
+    ]
+}

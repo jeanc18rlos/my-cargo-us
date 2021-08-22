@@ -1,0 +1,59 @@
+{
+    "id": "membership_es",
+    "content_type": "membership",
+    "subTitle": "¿Estás listo para comprar y enviar?",
+    "title": "¡Hágase miembro de My Cargo US!",
+    "content": "<span> ¡Conviértase en Miembro de My Cargo US y envíe sus paquetes y carga a buenos precios con solo un clic !. Compare y genere sus compras en línea, en tiendas en los EE. UU., Para su hogar, negocio u oficina. </span> <br/> <br/> <span> Para comenzar, elija ahora una membresía que se adapte a sus necesidades de envío, ¡completamente gratis! </span>",
+    "highlightPlaceHolder": "destacado",
+    "memberships": [
+        {
+            "title": "Estándar",
+            "desc": "Con la Membresía estándar, puede disfrutar de los siguientes beneficios:",
+            "benefits": [
+                "1 paquete por tienda",
+                "Mi dirección de envío de carga en EE. UU.",
+                "International Locker en Miami y Nueva York",
+                "Administrador de casilleros en línea",
+                "Almacenamiento gratuito durante 60 días",
+                "Envíos aéreos urgentes",
+                "Precios bajos en paquetes de reempaquetado"
+            ],
+            "link": "/registro",
+            "placeHolder": "Registro",
+            "isHighlighted": false
+        },
+        {
+            "title": "Premium",
+            "desc": "Con la membresía premium, puede disfrutar de todos los beneficios de la membresía estándar más:",
+            "benefits": [
+                "Muchos paquetes de muchas tiendas",
+                "Mi dirección de envío de carga en EE. UU.",
+                "10% de descuento por volumen de envío",
+                "Envíos aéreos, marítimos y terrestres",
+                "Consolidación de paquetes gratis",
+                "Múltiples envíos a diferentes destinos",
+                "Recoger paquetes"
+            ],
+            "link": "/registro",
+            "placeHolder": "Registro",
+            "isHighlighted": true
+        },
+        {
+            "title": "Cargo",
+            "desc": "Con la membresía cargo, puede disfrutar de todos los beneficios de la membresía Premium más:",
+            "benefits": [
+                "Alto volumen de bultos y carga",
+                "Consolidación de bultos y carga",
+                "Precios bajos en paquetes de reempaquetado",
+                "Atención en Despacho Aduanero",
+                "Manipulación de materiales peligrosos",
+                "Atención personalizada",
+                "Servicio puerta a puerta",
+                "Asistencia y beneficios a nivel empresarial"
+            ],
+            "link": "/registro",
+            "placeHolder": "Registro",
+            "isHighlighted": false
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "content_type": "page",
+    "language": "es",
+    "slug": "/ubicaciones",
+    "translations": [
+        {
+            "path": "/locations",
+            "label": "english"
+        }
+    ],
+    "seo": {
+        "title": "Ubicaciones",
+        "description": "Nuestras ubicaciones en Norte America y el Caribe"
+    },
+    "components": [
+        {
+            "content_type": "hero",
+            "id": "hero_locations_es"
+        },
+        {
+            "content_type": "location",
+            "id": "global_locations_es"
+        }
+    ]
+}

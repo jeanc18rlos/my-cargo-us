@@ -1,0 +1,63 @@
+{
+    "content_type": "slider",
+    "id": "slider_home_es",
+    "slides": [
+        {
+            "mediaType": "image",
+            "mediaUrl": "/Slider/shopping.png",
+            "subTitle": "<span>¡Ahora es más fácil conseguir lo que necesita! De los Estados Unidos. con</span>",
+            "headline": "<span>My Cargo US</span>",
+            "description": "Le brindamos tranquilidad mientras compra sus artículos favoritos desde su hogar sin la molestia y la preocupación de los impuestos de importación o las tasas arancelarias.",
+            "buttons": [
+                {
+                    "link": "/registro",
+                    "label": "Registrarse",
+                    "variant": "primary"
+                },
+                {
+                    "link": "/register",
+                    "label": "Acceder",
+                    "variant": "white"
+                }
+            ]
+        },
+        {
+            "mediaType": "image",
+            "mediaUrl": "/Slider/orders.jpeg",
+            "subTitle": "Compre ahora y obtenga hasta un 50% de ahorro",
+            "headline": "Comprar es<br> Facil y Rapido",
+            "description": "¡Encuentre estos artículos en Amazon! ¡Solicite un nuevo empaque y programe su entrega! Ofrecemos inspección de paquetes en nuestras ubicaciones, por lo que nunca tendrá que preocuparse por no obtener lo que solicitó.",
+            "buttons": [
+                {
+                    "link": "/registro",
+                    "label": "Registrarse",
+                    "variant": "primary"
+                },
+                {
+                    "link": "/register",
+                    "label": "Acceder",
+                    "variant": "white"
+                }
+            ]
+        },
+        {
+            "mediaType": "image",
+            "mediaUrl": "/Slider/large.jpeg",
+            "subTitle": "¡No hay trabajo demasiado grande o pequeño para nosotros! ",
+            "headline": "¡Tenemos la solución!",
+            "description": "Usamos equipos de última generación y tenemos años de experiencia, por lo que sus artículos están en buenas manos cuando están con nosotros. Así que llámenos y permítanos encargarnos de ese próximo gran paso para usted.",
+            "buttons": [
+                {
+                    "link": "/registro",
+                    "label": "Registrarse",
+                    "variant": "primary"
+                },
+                {
+                    "link": "/register",
+                    "label": "Acceder",
+                    "variant": "white"
+                }
+            ]
+        }
+    ]
+}

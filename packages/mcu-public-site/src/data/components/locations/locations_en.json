@@ -1,0 +1,43 @@
+{
+    "id": "global_locations_en",
+    "content_type": "location",
+    "title": "We have locations in the east coast of U.S. and the Caribbean",
+    "content": "<p>Our strategic locations allow you to benefit from having access to all destinations in Europe, Latin America, and the Caribbean and having local shipments to any part of us and the world.</p><p>Depending on your location and shipping requirements, we offer you fair rates and various services designed around your particular needs. </p><p>We are positioned to provide national and international coverage to more than 200 destinations and import/export from ports and airports on the US East Coast and the Caribbean Sea.</p><p>With service of establishments and warehouses in the USA and the Caribbean located in:</p>",
+    "locations": [
+        {
+            "country": "United States",
+            "locations": [
+                {
+                    "name": "Queens, New York 11379",
+                    "lat": 59.95,
+                    "lng": 30.33
+                },
+                {
+                    "name": "Miramar - Miami, Florida 33025",
+                    "lat": 59.95,
+                    "lng": 30.33
+                },
+                {
+                    "name": "Doral - Miami, Florida 33195",
+                    "lat": 59.95,
+                    "lng": 30.33
+                },
+                {
+                    "name": "Doral – Miami, Florida 33126",
+                    "lat": 59.95,
+                    "lng": 30.33
+                }
+            ]
+        },
+        {
+            "country": "Puerto Rico",
+            "locations": [
+                {
+                    "name": "Guaynabo, Puerto Rico 00966",
+                    "lat": 59.95,
+                    "lng": 30.33
+                }
+            ]
+        }
+    ]
+}

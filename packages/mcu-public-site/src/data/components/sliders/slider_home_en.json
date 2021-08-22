@@ -1,0 +1,58 @@
+{
+    "content_type": "slider",
+    "id": "slider_home_en",
+    "slides": [
+        {
+            "mediaType": "image",
+            "mediaUrl": "/Slider/shopping.png",
+            "subTitle": "<span>Now it's easier to get what you need! from the U.S. with</span>",
+            "headline": "<span>My Cargo US</span>",
+            "description": "We give you peace of mind while shopping for your favorite items from home without the hassle or worry of import taxes or duty rates.",
+            "buttons": [
+                {
+                    "link": "/register",
+                    "label": "Sign Up",
+                    "variant": "primary"
+                },
+                {
+                    "link": "/register",
+                    "label": "Sign In",
+                    "variant": "white"
+                }
+            ]
+        },
+        {
+            "mediaType": "image",
+            "mediaUrl": "/Slider/orders.jpeg",
+            "subTitle": "Shop now and get up to 50% in savings",
+            "headline": "Ordering is <br> quick & easy",
+            "description": "Find these item on Amazon!, request repackage and schedule your delivery! We offer package inspection on our locations, so you never have to worry about not getting what you ordered.",
+            "buttons": [
+                {
+                    "link": "/register",
+                    "label": "Sign Up",
+                    "variant": "primary"
+                },
+                {
+                    "link": "/register",
+                    "label": "Sign In",
+                    "variant": "white"
+                }
+            ]
+        },
+        {
+            "mediaType": "image",
+            "mediaUrl": "/Slider/large.jpeg",
+            "subTitle": "There's no job too big or small for us! ",
+            "headline": "We have the solution!",
+            "description": "We use the latest equipment and have years of experience, so your items are in good hands when they're with us. So give us a call and let us take care of that next big move for you.",
+            "buttons": [
+                {
+                    "link": "/register",
+                    "label": "get started",
+                    "variant": "primary"
+                }
+            ]
+        }
+    ]
+}

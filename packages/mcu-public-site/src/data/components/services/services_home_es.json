@@ -1,0 +1,80 @@
+{
+    "id": "services_grid_es",
+    "content_type": "service",
+    "title": "Managing Logistics For World’s Multinational Companies.",
+    "subTitle": "Safe & Reliable Cargo Solutions!",
+    "slides": [
+        {
+            "image": "/services/1.jpeg",
+            "title": "Air Freight",
+            "desc": "We can provide with the comprehensive service in the sphere of urgent, valuable, fragile or any cargoes conscientious.",
+            "label": "Read More",
+            "link": "/",
+            "features": [
+                "Quality Control System",
+                "100% Satisfaction Guarantee",
+                "Highly Professional Staff"
+            ]
+        },
+        {
+            "image": "/services/2.jpeg",
+            "title": "Ocean Freight",
+            "desc": "We provides with the main types of basic sea transportation is implemented by our partners’ vessels.",
+            "label": "Read More",
+            "link": "/",
+            "features": [
+                "Unrivalled Workmanship",
+                "Accurate Testing Processes",
+                "Professional & Qualified"
+            ]
+        },
+        {
+            "image": "/services/3.jpeg",
+            "title": "Road Freight",
+            "desc": "We provides with the main types of basic sea transportation is implemented by our partners’ vessels.",
+            "label": "Read More",
+            "link": "/",
+            "features": [
+                "Commercial Expertise",
+                "Sustanabillity Goals",
+                "Logistical Expertise"
+            ]
+        },
+        {
+            "image": "/services/4.jpeg",
+            "title": "Warehousing",
+            "desc": "We can provide with the comprehensive service in the sphere of urgent, valuable, fragile or any cargoes conscientious.",
+            "label": "Read More",
+            "link": "/",
+            "features": [
+                "Quality Control System",
+                "100% Satisfaction Guarantee",
+                "Highly Professional Staff"
+            ]
+        },
+        {
+            "image": "/services/5.jpeg",
+            "title": "Supply Chain",
+            "desc": "We provides with the main types of basic sea transportation is implemented by our partners’ vessels.",
+            "label": "Read More",
+            "link": "/",
+            "features": [
+                "Unrivalled Workmanship",
+                "Accurate Testing Processes",
+                "Professional & Qualified"
+            ]
+        },
+        {
+            "image": "/services/6.jpeg",
+            "title": "Packaging",
+            "desc": "We provides with the main types of basic sea transportation is implemented by our partners’ vessels.",
+            "label": "Read More",
+            "link": "/",
+            "features": [
+                "Commercial Expertise",
+                "Sustanabillity Goals",
+                "Logistical Expertise"
+            ]
+        }
+    ]
+}

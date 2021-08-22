@@ -1,0 +1,25 @@
+{
+    "content_type": "page",
+    "language": "es",
+    "slug": "/soporte/preguntas-frecuentes",
+    "translations": [
+        {
+            "path": "/support/frequently-asked-questions",
+            "label": "english"
+        }
+    ],
+    "seo": {
+        "title": "F.A.Q.",
+        "description": "Preguntas Frecuentes"
+    },
+    "components": [
+        {
+            "content_type": "hero",
+            "id": "hero_faq_es"
+        },
+        {
+            "content_type": "faq",
+            "id": "faq_faq_es"
+        }
+    ]
+}

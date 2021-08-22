@@ -1,0 +1,17 @@
+{
+    "id": "hero_locations_en",
+    "content_type": "hero",
+    "background": "/hero/locations.jpg",
+    "title": "Our Locations",
+    "links": [
+        {
+            "link": "/en",
+            "label": "Home"
+        },
+        {
+            "link": "/locations",
+            "label": "Locations"
+        }
+        
+    ]
+}

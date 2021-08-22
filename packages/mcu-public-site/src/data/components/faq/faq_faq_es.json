@@ -1,0 +1,198 @@
+{
+    "id": "faq_faq_es",
+    "content_type": "faq",
+    "label": "categorias",
+    "contact": {
+        "title": "Equipo de soporte dedicado",
+        "content": "Nuestra presencia mundial garantiza la puntualidad, cumplimiento y eficiencia de a la hora de tomar sus quejas o dudas.",
+        "link": "/",
+        "label": "Hablar con un agente"
+    },
+    "legal": {
+        "title": "Avisos Legales",
+        "links": [
+            {
+                "link": "/",
+                "label": "Aviso Legal"
+            },
+            {
+                "link": "/",
+                "label": "Terminos y condiciones"
+            },
+            {
+                "link": "/",
+                "label": "Politica de privacidad"
+            },
+            {
+                "link": "/",
+                "label": "Politica de Cookies"
+            }
+        ]
+    },
+    "faq": [
+        {
+            "group": "Envío",
+            "questions": [
+                {
+                    "question": "¿Cuáles son mis opciones de envío en EE.UU e internacional?",
+                    "answer": "My Cargo US ofrece una opción de envío nacional para todos los EE.UU, y dos opciones de envío internacional: Via terrestre nacional hasta 5 días hábiles, vía aérea internacional con entrega desde 5 días hábiles, y vía marítima internacional con entrega desde 15 días hábiles. Escoja la que mas se adapte a sus necesideades de envío."
+                },
+                {
+                    "question": "¿Qué tipo de cargas puedo enviar por My Cargo US?",
+                    "answer": "Puede enviar cualquier tipo de carga: paquetes, cajas, bultos, carga contenerizada, a granel, sobredimensionada y cargas peligrosas. Para ello, y dependiendo del tipo de carga que habitualmente maneja puede acceder a ser Miembro Estándar para paquetes pequeños y medianos, Premium para envío de paquetes, cajas y hasta bultos medianos en volumen y cantidades, y Cargo para envío de carga, en grandes volúmenes, contenerizada, a granel, sobre dimensionada y carga peligrosa. Escoja el servicio que se adapte más a sus necesidades. Actualmente, operamos con tres almacenes en la Ciudad de Miami, adaptados a las necesidades de nuestros clientes y establecimiento en New York."
+                },
+                {
+                    "question": "¿Cómo puedo acceder a las diferentes tiendas de compras en los EE.UU?",
+                    "answer": "¡Puedes comprar en cientos de tiendas! Visite nuestra página y haz click en Tiendas de Compras, ahí encontraras los enlaces web y una lista de tiendas en los EE.UU, a los cuales podrás acceder y llevarte directo al portal web de la tienda de tu preferencia."
+                },
+                {
+                    "question": "¿Qué dirección de envío debo introducir en el momento del pago en las tiendas de compras?",
+                    "answer": "Por favor, introduzca la dirección de envío de su Casillero Internacional en Miami que le fue adjudicado al momento de hacer su registro en My Cargo US, que será el destino de entrega para su envío al almacen. Recuerde ademas colocar su Número de Casillero asignado junto con su nombre."
+                },
+                {
+                    "question": "¿Tener un casillero internacional tiene algún costo mensual o anual?",
+                    "answer": "No, tener un casillero internacional con nosotros es completamente gratis, y es libre de cualquier costo de mantenimiento mensual o anual, por lo tanto usted solo debe pagar si hace envíos, de lo contrario si no mueve su cuenta no se generan cargos."
+                },
+                {
+                    "question": "¿Cómo crear mi casillero internacional en EE.UU?",
+                    "answer": "Crear un casillero internacional en Miami o New York con My Cargo US es muy fácil. En el menú de inicio podrá encontrar la opción de Registrarse, debe llenar el formulario con sus datos personales y dirección de envío, una vez hecho eso podrá disfrutar de nuestros servicios. Posteriormente le estaremos solicitando cargue además en su cuenta los principales datos que piden las autoridades aduanales para el envío y recepción de sus paquetes y carga a nivel internacional, en donde le sea aplicable."
+                },
+                {
+                    "question": "¿Cómo puedo realizar un seguimiento de mi pedido?",
+                    "answer": "My Cargo US le dará un constante seguimiento de su pedido informándole su status de manera de que pueda sentirse seguro que su pedido se le está haciendo seguimiento hasta su puerta."
+                },
+                {
+                    "question": "¿Puedo enviar mercancías si vivo fuera de Miami o New York?",
+                    "answer": "Si, puede realizar sus compras online y enviarlas directamente a nuestra dirección de almacén en Miami o New York o informenos si requiere que le hagamos la recogida de sus paquetes directamente."
+                },
+                {
+                    "question": "¿Puedo enviar mercancías si vivo fuera de USA? ",
+                    "answer": "Sí, puede realizar sus compras online y enviarlas a nuestra dirección de almacén en Miami o New York y desde allí a la dirección que nos haya colocado en el Registro al país de destino."
+                }
+            ]
+        },
+        {
+            "group": "paquetes",
+            "questions": [
+                {
+                    "question": "¿Desde y hacia qué ciudades en EE.UU puedo hacer envíos?",
+                    "answer": "Desde cualquier origen y destino en Estados Unidos puede enviar sus paquetes enviandolos al Almacén en Miami. Podemos además recogerlos en la comodidad de su casa u oficina y llevarlos hasta este mismo almacén."
+                },
+                {
+                    "question": "¿A qué lugares hacen envíos?",
+                    "answer": "Enviamos directo a cualquier lugar en EE.UU, Latinoamérica y el mundo. Diganos solo a que lugar desea enviar y gustosamente le atenderemos. En la sección de tarifas encontrará los destinos principales de envío, si requiere de una tarifa distinta no dude en escribirnos y se la enviaremos a la brevedad."
+                },
+                {
+                    "question": "¿Cómo sé que mis paquetes ya están en el almacén?",
+                    "answer": "Cuando su paquete llegue al Almacén en Miami o al establecimiento en New York, será pesado y medido notificándosele a través de un correo electrónico que el mismo ha sido ingresado a su casillero, listo para ser enviado a su dirección de envío. Motivado a la gran cantidad de envíos que se procesan diariamente, este ingreso puede variar de dos a cinco días."
+                },
+                {
+                    "question": "¿Llevan el paquete hasta la casa?",
+                    "answer": "La tarifa incluye el despacho de su mercancía desde el Almacén hacia cualquier destino que usted elija en EE.UU, Latinoamérica o el mundo. Si se encuentra en el interior de su país, le enviaremos su mercancía directamente a su casa o a las instalaciones de la compañía de envíos nacionales, dependiendo de su dirección de destino. Tome en cuenta que, en algunos casos, dependiendo de los accesos terrestres nacionales o por causas de fuerza mayor deberá retirar los paquetes directamente en la sucursal de envíos local o mas cercana."
+                },
+                {
+                    "question": "¿Qué formas de pago acepta My Cargo US?",
+                    "answer": "En My Cargo US aceptamos: Transferencias Bancarias a Bank of América, Transferencia vía Zelle, Paypal, AirTm, Transferencia a Bancos en moneda local (Solo para Venezuela – Banco Banesco; y Banco Estado para Chile)"
+                },
+                {
+                    "question": "¿Los cargos de envío incluyen tasas aduaneras, aranceles o impuestos?",
+                    "answer": "Si, todos los envíos aéreos y de personas naturales tienen los impuestos incluidos. Algunos paises incluyen impuestos a los productos en importación, verifique la tasa impositiva para su país o contacténos que gustosamente le atenderemos en su solicitud. \n Para envíos de empresas y vía marítima o de cargas hay que calcular las tasas e impuestos de importación para su país, que le incluimos en la factura, después de hecho las verificaciones de carga para importaciones de aduanas correspondientes. Puede verificar, previo a su importación, el costo aproximado de las tasas e impuestos a pagar poniéndose en contacto con su oficina de aduanas local para obtener más información sobre los derechos o las tasas de importación. Igual, puede solicitarnos vía correo un presupuesto de lo que desea importar, para hacerle los cálculos aproximados correspondientes de los impuestos a pagar según su tipo y volumen de carga."
+                },
+                {
+                    "question": "¿Cómo se calculan las tarifas de envío?",
+                    "answer": "Carga Aérea: Se cobra en relación al peso volumen, se calcula por cada Libra (0.45Kg) de peso que tenga el envío, y además se verifican las medidas de la caja para obtener el peso de volumen. Para carga aérea se aplica la siguiente formula: Se multiplican las tres medidas de su caja en pulgadas y luego se divide entre 166. (Ancho x Largo x Alto) / 166. \nSe cobrará siempre la medida mayor de su caja, si es más pesada será enviada por peso; si es más volumétrica será enviada por volumen. \nCarga Marítima: Toda la carga enviada por vía marítima se cobra en relación al volumen de su carga, se calcula en función de las medidas en pulgadas (2.54 cms) del envío sin importar el peso, es decir por su volumen. La fórmula para sacar los pies cúbicos de su carga es alto x ancho x profundidad, ese resultado debe dividirse entre 1728, el resultado son los pies cubico de su caja, la fórmula a aplicar es: (Largo x Ancho x Alto) / 1728. \nEsto nos indica que su volumen es en función del Pie Cubico, el cual debe multiplicar por nuestra tarifa para envío marítimo según el destino deseado. \nCarga Terrestre: Se cobra en relación al peso volumen, se calcula por cada Libra (0.45Kg) de peso que tenga el envío, y además se verifican las medidas de la caja para obtener el peso de volumen. Para carga terrestre se aplica la siguiente formula: Se multiplican las tres medidas de su caja en pulgadas y luego se divide entre 139. (Ancho x Largo x Alto) / 139. \nSe cobrará siempre la medida mayor de su caja, si es más pesada será enviada por peso; si es más volumétrica será enviada por volumen."
+                },
+                {
+                    "question": "¿Cuándo se me cobran los gastos de envío?",
+                    "answer": "Inmediatamente su pedido llegue a su casillero internacional en el almacén, se verificaran las medidas y el peso notificándole vía correo sobre el mismo. De esta forma, si tiene otros paquetes puede reempacar o consolidarlos y así realizar un solo paquete de envió. El costo total se le dara al finalizar su Alerta de Despacho en el administrador de su casillero, una vez haya informado si va a asegurar, reembalar o consolidar, y se le haya asignado su Guía de Despacho, debiendo cancelar su envío para que este salga en el próximo viaje."
+                },
+                {
+                    "question": "¿De qué manera la combinación de mis compras me ayuda a ahorrar dinero?",
+                    "answer": "Enviar varios paquetes al extranjero directamente desde tiendas en línea puede ser muy costoso. El equipo de embalaje combina sus compras de manera eficiente y segura en una sola caja, lo que le ahorra en GRANDE hasta mas de un 50% en las tarifas de envío internacionales."
+                }
+            ]
+        },
+        {
+            "group": "compras",
+            "questions": [
+                {
+                    "question": "¿Cuanto cuesta enviar un paquete?",
+                    "answer": "El costo de usar nuestros servicios si usted compra el paquete y lo envía con nosotros es el siguiente: \n- Gastos de envío, dependerá del peso del paquete para envíos aéreos y terrestres o pies cubicos para envíos marítimos según la tarifa de destino. Si su país no se encuentra en las tarifas de destino, consúltenos a través de contacténos y a la brevedad le responderemos. \n- Gastos adicionales: seguro del 5%, opcional, y tipo de embalaje. \n- Impuestos del país al que lo envía, algunos países requieren que pague los impuestos por adelantado y otros requieren que pague las tarifas a la llegada de su paquete al país de destino."
+                },
+                {
+                    "question": "¿Pueden ustedes hacer mis compras? ",
+                    "answer": "Sí, por un porcentaje del 15% del valor de la compra realizamos el servicio de Compra Asistida en cualquier tienda, supermercado, distribuidora, empresa o negocio en los EE.UU con destino al almacen en Miami. Haganos saber sobre su requerimiento ingresando a contacténos y a la brevedad le responderemos."
+                },
+                {
+                    "question": "¿Hay algún cargo por almacenar mis paquetes y carga? ",
+                    "answer": "Usted tiene un lapso hasta de 60 días consecutivos para almacenar sus paquetes gratuitamente en los Almacenes de Miami, sin que se genere ningún costo por almacenaje. \nDespués de transcurridos los días de almacenaje se aplicarán cargos de almacenaje, cuyos costos dependen del volumen y tiempo de permanencia de la carga en el almacén."
+                },
+                {
+                    "question": "¿Puedo retirar en sus oficinas, donde están ubicados?",
+                    "answer": "Puede retirar sus paquetes en nuestros establecimientos en aquellos lugares donde tenemos presencia fisica. Ademas de nuestro establecimiento de servicios ubicado en los EE.UU, y operando con tres Almacenes en la Ciudad de Miami y establecimiento en la Ciudad de New York para atender diferentes destinos y carga, tenemos establecimiento ubicado en la Ciudad de Caracas en Venezuela, para su comodidad, donde puede retirar directamente sus envíos si lo desea y le es de su conveniencia. \nPara otros destinos el envío se hace directamente hasta la puerta de su casa, empresa u oficina. Si esta va al interior le llegará directamente a su puerta o a la sucursal de la oficina de despacho de envíos nacionales."
+                },
+                {
+                    "question": " ¿Qué días se despachan los envíos?",
+                    "answer": "Los envíos aéreos y terrestres se despachan semanalmente, entre martes y viernes, llegando desde 5 días hábiles. Los envíos marítimos se despachan los dias viernes, llegando desde 15 días hábiles. \nPor situaciones de restricciones, por efectos de cuarentena local o nacional, puede que los envíos tarden unos pocos días mas en llegar."
+                },
+                {
+                    "question": "¿Cuál es su política de privacidad?",
+                    "answer": "Entendemos las preocupaciones de nuestros miembros con respecto a la confidencialidad, y es nuestra política nunca vender o regalar información de ningún miembro. La privacidad de nuestros miembros es de suma importancia para nosotros. Los detalles se pueden encontrar en nuestra Política de Privacidad."
+                },
+                {
+                    "question": "¿Puedo asegurar mis envíos?",
+                    "answer": "Si, el seguro de envío se puede comprar por 5% del valor asegurado. Aunque los paquetes dañados o perdidos son raros, le recomendamos que asegure su pedido en el improbable caso de que algo le suceda a sus productos, vale la pena, dado que solo representa un monto muy bajo del total de su factura de compra."
+                },
+                {
+                    "question": "¿Es obligatorio asegurar mi envío?",
+                    "answer": "No, el seguro no es obligatorio, sin embargo, siempre recomendamos asegurar cualquier carga, especialmente los equipos electrónicos como celulares, computadoras y dispositivos de alto valor, así como para aquellos envíos que deben hacer un tránsito nacional al interior, ya que cualquier incidente es responsabilidad del transportista terrestre, y según las políticas solo cubrirán algún incidente en caso de que el paquete haya sido asegurado. \nNota: No puede presentar una reclamación por daños o pérdidas si no selecciona un seguro de envío."
+                },
+                {
+                    "question": "¿Qué cubre el seguro de envío?",
+                    "answer": "El seguro de envío cubre la pérdida o daño a los artículos de su envío. El seguro NO cubre los derechos e impuestos de importación, los gastos de envío nacionales o los daños en el embalaje del fabricante."
+                }
+            ]
+        },
+        {
+            "group": "daños",
+            "questions": [
+                {
+                    "question": "¿Recibí mi paquete, pero tiene un faltante y/o daños, que debo hacer?",
+                    "answer": "En caso de que algún artículo presente daños, o haya algún faltante, usted deberá notificarlo al transportista que le hace la entrega, y debe cerciorarse de que se coloque la observación en la nota de entrega que usted firma a la hora de recibir un paquete. A su vez debe escribirnos un email detallando el daño que presenta su artículo y adjuntando fotografías del mismo donde claramente pueda verse el daño, de igual forma debe adjuntar fotografías de la caja, precintos de seguridad, y etiquetas que tenga la caja recibida. Esta comunicación deber ser enviada el mismo día de la recepción del paquete. Cabe destacar que existen unas Políticas para los Reclamos de Seguros, y se debe seguir el procedimiento de reclamo, ya que cualquier incumplimiento a las políticas antes mencionadas traerá consigo que su reclamo “No Proceda”."
+                },
+                {
+                    "question": "¿Puedo devolver la mercancía pedida a través de My Cargo US?",
+                    "answer": "No, no se puede procesar una devolución en su nombre a menos que los artículos que llegan al almacén sean incorrectos o estén dañados."
+                },
+                {
+                    "question": "¿Abren mis paquetes?",
+                    "answer": "Sí, el equipo de embalaje está obligado a abrir todos los paquetes que llegan al almacén. Estos paquetes, producto de sus compras, se revisan cuidadosamente para asegurarse de que no se rompieron durante el envío y son legales para la exportación desde los EE.UU."
+                },
+                {
+                    "question": "¿En qué consiste el Servicio de Reembalaje o Repack?",
+                    "answer": "La elaboración de un reembalaje es cuando se consolidan o juntan todos sus artículos, y los mismos se reempacan con el objetivo de reducir el volumen del envío, y asi lograr que todos sus artículos lleguen en una misma caja, bien embalados hasta sus manos. Al elaborar un reembalaje los artículos se sacan de la caja de cartón del proveedor donde vienen, y todos se consolidan en una sola caja de cartón que es donde se envían, de manera que usted pagara solo las libras de esa caja final y no de las cajas inicialmente recibidas, esto le ayudara a ahorrar hasta mas de un 50% en los costos de envio. No se sacan mercancías de sus cajas originales."
+                },
+                {
+                    "question": "¿Qué es la Consolidación?",
+                    "answer": "La consolidación es juntar dos o más cajas en un mismo envío. Al hacer la consolidación no se sacan los artículos de las cajas de cartón como en el caso del Repack, solo se limita a que se envíen sus diferentes cajas recibidas en su casillero en un mismo vuelo, a fin de que las reciba juntas en una misma entrega, o en sus efectos se mejora o refuerza el embalaje de la carga consolidada a enviar."
+                },
+                {
+                    "question": "¿Como puedo solicitar un Reembalaje o una Consolidación?",
+                    "answer": "Para solicitar un reembalaje o una consolidación, en el administrador de su casillero, en Alerta de Despacho, podrá solicitar el servicio, el cual le dará los tipos y costos de reempaque o consolidación que desee realizar, dependiendo de las necesidades de su envió, el cual se cargara y unirá automáticamente al costo total de su envió."
+                },
+                {
+                    "question": "¿Cuál es la diferencia entre los artículos restringidos y prohibidos?",
+                    "answer": "Artículos Prohibidos: Ciertos artículos pueden estar prohibidos en su país o para la exportación desde los Estados Unidos, y no podemos enviar estos artículos a usted. Si no está seguro de si un artículo está prohibido, póngase en contacto con nosotros antes de realizar el pedido, y/o ademas revise la lista de artículos prohibidos y restringidos. \nArtículos Restringidos: Algunos artículos restringidos se pueden enviar, pero solo después de la verificación de cumplimiento. Revise el artículo para asegurarse de que cumple con las leyes estadounidenses y las leyes de su país. Si tiene preguntas sobre el envío de un artículo restringido, póngase en contacto con nosotros antes de enviar el artículo a su casillero. Por favor, revise nuestra lista de artículos prohibidos y restringidos antes de comprar."
+                },
+                {
+                    "question": "¿Hacen envios de mercancias peligrosas y como se consideran estas mercancias?",
+                    "answer": "Si hacemos envíos de mercancías peligrosas. Las mercancías peligrosas / materiales peligrosos son artículos que requieren manipulación especial, embalaje adicional y etiquetado para ser transportados internacionalmente. Las regulaciones de envío para mercancías peligrosas en algunos países son diferentes. Los artículos considerados como mercancías peligrosas incluyen: artículos inflamables o bajo presión (por ejemplo, laca para el cabello, pintura en aerosol, encendedores, esmalte de uñas, perfume, etc). Los artículos de mercancías peligrosas pueden ser obligados a enviar por separado de los artículos de mercancías no peligrosas. Consulte nuestra lista de artículos restringidos y prohibidos para obtener más información, o póngase en contacto con nosotros para obtener información específica sobre su país y los artículos que desea enviar."
+                },
+                {
+                    "question": "¿Hay alguna consideración especial al enviar a los diferentes países?",
+                    "answer": "Si, existen consideraciones especiales al enviar a los diferentes países, revise por favor cuales son estos artículos prohibidos en: Artículos Restringidos y Prohibidos en la sección ¿Que No Enviar?"
+                }
+            ]
+        }
+    ]
+}

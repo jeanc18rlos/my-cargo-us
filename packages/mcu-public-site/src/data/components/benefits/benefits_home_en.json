@@ -1,0 +1,42 @@
+{
+    "id": "benefits_home_en",
+    "content_type": "benefit",
+    "background": "/about/about-home.jpeg",
+    "title": "Benefits of shipping with us",
+    "label": "Delivered Goods",
+    "list": [
+        {
+            "title": "Access to the main online stores in the United States",
+            "content": "Have direct access to the main online shopping stores, and send your purchases directly to your International P.O. Box address in the USA."
+        },
+        {
+            "title": "Package Consolidation",
+            "content": "Acquire care, repacking and consolidation services for parcels and freight, and save up to 80% with shipment consolidation."
+        },
+        {
+            "title": "Customs clearance service",
+            "content": "Maintain a customs broker and fulfillment service that processes export paperwork for you."
+        },
+        {
+            "title": "Package tracking Notification",
+            "content": "Keep track of your goods in our real-time product tracking status."
+        },
+        {
+            "title": "Easy Registration",
+            "content": "Register and get your US shipping address in seconds."
+        },
+        {
+            "title": "Air and Ocean Shipments Every Week",
+            "content": "Ship directly to Venezuela, Latin America or any country in the world, with weekly departures."
+        },
+        {
+            "title": "Delivery to your home",
+            "content": "Receive your packages and freight in the comfort of your home, business or office, as well as at the shipping agent's office closest to your home."
+        },
+        {
+            "title": "Tailored Freight Forwarding to Meet Your Needs",
+            "content": "Send, with unlimited capacity, documents, packages, goods or cargo of various shapes, weights and sizes by air or sea."
+        }
+
+    ]
+}

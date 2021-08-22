@@ -1,0 +1,210 @@
+{
+    "content_type": "layout",
+    "language": "es",
+    "id": "layout_es",
+    "footer": {
+        "background": "/footer-bg.jpeg",
+        "social_media": [
+            {
+                "icon": "fa-youtube",
+                "label": "youtube",
+                "link": "youtube"
+            },
+            {
+                "icon": "fa-whatsapp",
+                "label": "whatsapp",
+                "link": "whatsapp"
+            },
+            {
+                "icon": "fa-telegram",
+                "label": "telegram",
+                "link": "telegram"
+            },
+            {
+                "icon": "fa-instagram",
+                "label": "instagram",
+                "link": "instagram"
+            },
+            {
+                "icon": "fa-facebook",
+                "label": "facebook",
+                "link": "facebook"
+            }
+        ],
+        "logo": "/logo.svg",
+        "about": {
+            "label": "My Cargo US",
+            "content": "Con nuestro servicio de importación desde Miami y New York, puede enviar paquetes ó carga a cualquier ciudad de America Latina, el Caribe o el mundo donde los servicios de envío puedan llegar. Cuando se trata de servicios de carga y envío, My Cargo US no tiene fronteras.!"
+        },
+        "links": [
+            {
+                "title": "Servicios",
+                "links": [
+                    {
+                        "label": "Compra asistida",
+                        "link": "/servicios/compra-asistida"
+                    },
+                    {
+                        "label": "Envío de Carga",
+                        "link": "/servicios/envio-de-carga"
+                    },
+                    {
+                        "label": "Servicio de Pickup",
+                        "link": "/servicios/servicio-de-pickup"
+                    },
+                    {
+                        "label": "Envío de Alimentos",
+                        "link": "/servicios/envio-de-alimentos"
+                    }
+                ]
+            },
+            {
+                "title": "Soporte",
+                "links": [
+                    {
+                        "label": "¿Como Funciona?",
+                        "link": "/soporte/como-funciona"
+                    },
+                    {
+                        "label": "Antes de Enviar",
+                        "link": "/soporte/antes-de-enviar"
+                    },
+                    {
+                        "label": "¿Que No Enviar?",
+                        "link": "/soporte/que-no-enviar"
+                    },
+                    {
+                        "label": "Preguntas frecuentes",
+                        "link": "/soporte/preguntas-frecuentes"
+                    },
+                    {
+                        "label": "contacto",
+                        "link": "/contacto"
+                    }
+                ]
+            }
+        ],
+        "contact": {
+            "title": "Contáctanos",
+            "content": "Si tienes alguna duda o necesitas ayuda, no dudes en contactar con nuestro equipo, en la sección de contacto o llamándonos al siguiente número de teléfono",
+            "link": "/contacto",
+            "phone": {
+                "number": "+1 (305) 677-3506",
+                "link": "+1 (305) 677-3506"
+            },
+            "address": "2001 SW 101st Ave , Ste D Miramar, FL 33025-1850 United States"
+        },
+        "copyright": {
+            "title": "© My Cargo US, Todos los derechos reservados"
+        },
+        "register": {
+            "button": {
+                "label": "Registrate",
+                "link": "/register"
+            },
+            "text": "Obten tu casillero gratis!"
+        }
+    },
+    "header": {
+        "altLogo": "/logo-dark.svg",
+        "logo": "/logo.svg",
+        "home": {
+            "label": "Home",
+            "link": "/"
+        },
+        "contact": {
+            "label": "Contacto",
+            "link": "/contacto"
+        },
+        "links": [
+            {
+                "label": "La Empresa",
+                "links": [
+                    {
+                        "label": "¿Por que elegirnos?",
+                        "link": "/por-que-elegirnos"
+                    },
+                    {
+                        "label": "Acerca de Nosotros",
+                        "link": "/acerca-de-nosotros"
+                    },
+                    {
+                        "label": "Opiniones de clientes",
+                        "link": "/opiniones"
+                    },
+                    {
+                        "label": "Membresias",
+                        "link": "/membresias"
+                    },
+                    {
+                        "label": "Ubicaciones",
+                        "link": "/ubicaciones"
+                    },
+                    {
+                        "label": "Tarifas de Envío",
+                        "link": "/tarifas-de-envio"
+                    }
+                ]
+            },
+            {
+                "label": "Servicios",
+                "links": [
+                    {
+                        "label": "Compra asistida",
+                        "link": "/servicios/compra-asistida"
+                    },
+                    {
+                        "label": "Envío de Carga",
+                        "link": "/servicios/envio-de-carga"
+                    },
+                    {
+                        "label": "Servicio de Pickup",
+                        "link": "/servicios/servicio-de-pickup"
+                    },
+                    {
+                        "label": "Envío de Alimentos",
+                        "link": "/servicios/envio-de-alimentos"
+                    }
+                ]
+            },
+            {
+                "label": "Novedades",
+                "links": [
+                    {
+                        "label": "Blog",
+                        "link": "/blog"
+                    },
+                    {
+                        "label": "Novedades",
+                        "link": "/novedades"
+                    }
+                ]
+            },
+            {
+                "label": "Soporte",
+                "links": [
+                    {
+                        "label": "Antes de Enviar",
+                        "link": "/soporte/antes-de-enviar"
+                    },
+                    {
+                        "label": "Tarifas de Envío",
+                        "link": "/soporte/tarifas-de-envio"
+                    },
+                    {
+                        "label": "Calculadora de envio",
+                        "link": "/soporte/calculadora"
+                    },
+                    {
+                        "label": "Tutoriales",
+                        "link": "/soporte/tutoriales"
+                    }
+                ]
+            }
+        ],
+        "register": {
+            "label": "Registrate",
+            "link": "/registro"
+        }
+    }
+}

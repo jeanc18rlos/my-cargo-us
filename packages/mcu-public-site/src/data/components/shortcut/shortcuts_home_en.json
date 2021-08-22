@@ -1,0 +1,31 @@
+{
+    "id": "shortcut_home_en",
+    "content_type": "shortcut",
+    "shortcuts": [
+        {
+            "icon": "flaticon-002-warehouse",
+            "title": "warehousing services",
+            "link": "/services/warehouse",
+            "label": "rentable"
+        },
+        {
+            "icon": "flaticon-035-plane",
+            "label": "reliable",
+            "link": "/services/air",
+            "title": "air freight services"
+        },
+        {
+            "icon": "flaticon-010-cargo",
+            "label": "innovative",
+            "link": "/services/ocean",
+            "title": "ocean freight services"
+        },
+        {
+            "icon": "flaticon-004-trailer-1",
+            "label": "flexible",
+            "link": "/services/land",
+            "title": "road freight services"
+        }
+        
+    ]
+}

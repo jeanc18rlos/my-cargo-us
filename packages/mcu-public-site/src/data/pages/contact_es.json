@@ -1,0 +1,25 @@
+{
+    "content_type": "page",
+    "language": "es",
+    "slug": "/contacto",
+    "translations": [
+        {
+            "path": "/contact",
+            "label": "english"
+        }
+    ],
+    "seo": {
+        "title": "Contacto",
+        "description": "Envianos un mensaje"
+    },
+    "components": [
+        {
+            "content_type": "hero",
+            "id": "hero_contact_es"
+        },
+        {
+            "content_type": "contact",
+            "id": "contact_contact_es"
+        }
+    ]
+}

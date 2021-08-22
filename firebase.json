@@ -11,7 +11,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "packages/mcu-landing-site/public",
+    "public": "packages/mcu-public-site/public",
     "ignore": [
       "firebase.json",
       "**/.*",

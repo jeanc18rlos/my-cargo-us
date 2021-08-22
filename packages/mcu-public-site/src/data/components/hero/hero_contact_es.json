@@ -1,0 +1,17 @@
+{
+    "id": "hero_contact_es",
+    "content_type": "hero",
+    "background": "/hero/contact.jpeg",
+    "title": "Contacto",
+    "links": [
+        {
+            "link": "/",
+            "label": "Home"
+        },
+        {
+            "link": "/contacto",
+            "label": "Contacto"
+        }
+        
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "content_type": "page",
+    "language": "en",
+    "slug": "/memberships",
+    "translations": [
+        {
+            "path": "/membresias",
+            "label": "español"
+        }
+    ],
+    "seo": {
+        "title": "Memberships",
+        "description": "Memberships and Payment Methods"
+    },
+    "components": [
+        {
+            "content_type": "hero",
+            "id": "hero_membership_en"
+        },
+        {
+            "content_type": "membership",
+            "id": "membership_en"
+        },
+        {
+            "content_type": "carousel",
+            "id": "payment_method_en"
+        }
+    ]
+}

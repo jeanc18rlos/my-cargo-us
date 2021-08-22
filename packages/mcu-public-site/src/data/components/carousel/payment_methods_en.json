@@ -1,0 +1,33 @@
+{
+    "id": "payment_method_en",
+    "content_type": "carousel",
+    "title": "Payment Mehtods",
+    "desc": "<p> Paying your shipments is very easy and convenient, choose the payment method that best suits you. To do this, you can: </p> <div> <ul> <li> Make the payment of your shipments in American currency USD $ by bank transfer to BANK OF AMERICA. </li> <li> Pay your parcels quickly and comfortably in American dollars via ZELLE. </li> <li> Pay quickly and favorably in American dollars through the PAYPAL Electronic Payment Platform. </li> <li> Pay quickly, cheaply and conveniently from anywhere and in any currency in the world with the AIRTM Cloud Payment Platform. </li> <li> Pay your shipments in local currency by Bank Transfer (In Bolívares only for Venezuela to Banco BANESCO, or in Chilean Pesos to BANCO ESTADO de Chile). </li> </ul> </div> <p> When you register and make your shipments we will give you the details of the bank accounts and email information so that you can make your payments effective and start enjoying your International Mailbox in the US with My Cargo US. </p> <p> If you have not registered yet, do so now by clicking on the following link. </p> ",
+    "subTitle": "Now it's easier to pay your bill",
+    "slides": [
+        {
+            "image": "/payment_methods/1.png",
+            "label": "Paypal"
+        },
+        {
+            "image": "/payment_methods/2.png",
+            "label": "Zelle"
+        },
+        {
+            "image": "/payment_methods/3.png",
+            "label": "Bank of America"
+        },
+        {
+            "image": "/payment_methods/4.png",
+            "label": "Airtm"
+        },
+        {
+            "image": "/payment_methods/5.png",
+            "label": "Banesco"
+        },
+        {
+            "image": "/payment_methods/6.png",
+            "label": "Banco Estado"
+        }
+    ]
+}

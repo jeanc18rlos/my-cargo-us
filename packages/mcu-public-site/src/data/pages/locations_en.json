@@ -1,0 +1,25 @@
+{
+    "content_type": "page",
+    "language": "en",
+    "slug": "/locations",
+    "translations": [
+        {
+            "path": "/ubicaciones",
+            "label": "español"
+        }
+    ],
+    "seo": {
+        "title": "Locations",
+        "description": "Our Locations in the U.S and the Caribbean"
+    },
+    "components": [
+        {
+            "content_type": "hero",
+            "id": "hero_locations_en"
+        },
+        {
+            "content_type": "location",
+            "id": "global_locations_en"
+        }
+    ]
+}

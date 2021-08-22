@@ -1,0 +1,210 @@
+{
+    "content_type": "layout",
+    "language": "en",
+    "id": "layout_en",
+    "footer": {
+        "background": "/footer-bg.jpeg",
+        "logo": "/logo.svg",
+        "social_media": [
+            {
+                "icon": "fa-youtube",
+                "label": "youtube",
+                "link": "youtube"
+            },
+            {
+                "icon": "fa-whatsapp",
+                "label": "whatsapp",
+                "link": "whatsapp"
+            },
+            {
+                "icon": "fa-telegram",
+                "label": "telegram",
+                "link": "telegram"
+            },
+            {
+                "icon": "fa-instagram",
+                "label": "instagram",
+                "link": "instagram"
+            },
+            {
+                "icon": "fa-facebook",
+                "label": "facebook",
+                "link": "facebook"
+            }
+        ],
+        "about": {
+            "label": "My Cargo US",
+            "content": "With our shipment service from Miami and New York, you can send packages or cargo to any city in Latin America, the Caribbean, or any town that shipping services can reach. When it comes to freight and shipping services, My Cargo US has no limits!"
+        },
+        "links": [
+            {
+                "title": "Services",
+                "links": [
+                    {
+                        "label": "Assisted purchase",
+                        "link": "/services/assisted-purchase"
+                    },
+                    {
+                        "label": "Freight Shipping",
+                        "link": "/services/freight-shipping"
+                    },
+                    {
+                        "label": "Pickup service",
+                        "link": "/services/pickup-service"
+                    },
+                    {
+                        "label": "Food Shipping",
+                        "link": "/services/food-shipping"
+                    }
+                ]
+            },
+            {
+                "title": "Support",
+                "links": [
+                    {
+                        "label": "How does it work?",
+                        "link": "/support/how-it-works"
+                    },
+                    {
+                        "label": "Before Shipping",
+                        "link": "/support/before-Shipping"
+                    },
+                    {
+                        "label": "What not to send?",
+                        "link": "/support/what-not-to-send"
+                    },
+                    {
+                        "label": "F.A.Q.",
+                        "link": "/support/frequently-asked-questions"
+                    },
+                    {
+                        "label": "Contact",
+                        "link": "/contact"
+                    }
+                ]
+            }
+        ],
+        "contact": {
+            "title": "Contact us",
+            "content": "If you have any questions or need help, feel free to contact our team, in the contact section or by calling us at the following phone number",
+            "link": "/contact",
+            "phone": {
+                "number": "+1 (305) 677-3506",
+                "link": "+1 (305) 677-3506"
+            },
+            "address": "2001 SW 101st Ave , Ste D Miramar, FL 33025-1850 United States"
+        },
+        "copyright": {
+            "title": "© My Cargo US, All Rights Reserved"
+        },
+        "register": {
+            "button": {
+                "label": "Sign Up",
+                "link": "/register"
+            },
+            "text": "Get your P.O. box for free!"
+        }
+    },
+    "header": {
+        "logo": "/logo.svg",
+        "altLogo": "/logo-dark.svg",
+        "home": {
+            "label": "Home",
+            "link": "/en"
+        },
+        "contact": {
+            "label": "Contact",
+            "link": "/contact"
+        },
+        "links": [
+            {
+                "label": "Company",
+                "links": [
+                    {
+                        "label": "How does it work?",
+                        "link": "/how-does-it-works"
+                    },
+                    {
+                        "label": "About Us",
+                        "link": "/about-us"
+                    },
+                    {
+                        "label": "Client Reviews",
+                        "link": "/reviews"
+                    },
+                    {
+                        "label": "Memberships",
+                        "link": "/memberships"
+                    },
+                    {
+                        "label": "Shipping Rates",
+                        "link": "/shipping-rates"
+                    },
+                    {
+                        "label": "Locations",
+                        "link": "/locations"
+                    }
+                ]
+            },
+            {
+                "label": "Services",
+                "links": [
+                    {
+                        "label": "Assisted purchase",
+                        "link": "/services/assisted-purchase"
+                    },
+                    {
+                        "label": "Freight Shipping",
+                        "link": "/services/freight-shipping"
+                    },
+                    {
+                        "label": "Pickup service",
+                        "link": "/services/pickup-service"
+                    },
+                    {
+                        "label": "Food Shipping",
+                        "link": "/services/food-shipping"
+                    }
+                ]
+            },
+            {
+                "label": "News",
+                "links": [
+                    {
+                        "label": "Our Blog",
+                        "link": "/en/blog"
+                    },
+                    {
+                        "label": "Novelties",
+                        "link": "/novelties"
+                    }
+                ]
+            },
+            {
+                "label": "Support",
+                "links": [
+                    {
+                        "label": "Before Shipping",
+                        "link": "/support/before-Shipping"
+                    },
+                    {
+                        "label": "Shipping Rates",
+                        "link": "/support/shipping-rates"
+                    },
+                    {
+                        "label": "Shipping Calculator",
+                        "link": "/support/calculator"
+                    },
+                    {
+                        "label": "Tutorials",
+                        "link": "/support/tutorials"
+                    }
+                ]
+            }
+        ],
+        "register": {
+            "label": "SignUp",
+            "link": "/register"
+        }
+    }
+}

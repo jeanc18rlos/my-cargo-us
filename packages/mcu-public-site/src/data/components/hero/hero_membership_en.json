@@ -1,0 +1,17 @@
+{
+    "id": "hero_membership_en",
+    "content_type": "hero",
+    "background": "/hero/membership.jpeg",
+    "title": "Memberships",
+    "links": [
+        {
+            "link": "/en",
+            "label": "Home"
+        },
+        {
+            "link": "/memberships",
+            "label": "Memberships"
+        }
+        
+    ]
+}

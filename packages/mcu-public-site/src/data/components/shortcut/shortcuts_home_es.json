@@ -1,0 +1,30 @@
+{
+    "id": "shortcut_home_es",
+    "content_type": "shortcut",
+    "shortcuts": [
+            {
+                "icon": "flaticon-002-warehouse",
+                "title": " Servicio de Warehouse",
+                "link": "/services/warehouse",
+                "label": "Rentable"
+            },
+            {
+                "icon": "flaticon-035-plane",
+                "label": "Confiables",
+                "link": "/services/air",
+                "title": "Servicios de Envio Aereo"
+            },
+            {
+                "icon": "flaticon-010-cargo",
+                "label": "Innovadores",
+                "link": "/services/ocean",
+                "title": "Servicios de Carga"
+            },
+            {
+                "icon": "flaticon-004-trailer-1",
+                "label": "Flexibles",
+                "link": "/services/land",
+                "title": "Servicios de transporte"
+            }
+    ]
+}

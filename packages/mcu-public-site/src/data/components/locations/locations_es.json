@@ -1,0 +1,43 @@
+{
+    "id": "global_locations_es",
+    "content_type": "location",
+    "title": "Tenemos ubicaciones en la costa este de EE. UU. y el Caribe",
+    "content": "<p> Nuestras ubicaciones estratégicas le permiten beneficiarse de tener acceso a todos los destinos en Europa, América Latina y el Caribe y tener envíos locales a cualquier parte de nosotros y del mundo. </p> <p> Dependiendo de su ubicación y requisitos de envío, le ofrecemos tarifas justas y varios servicios diseñados en función de sus necesidades particulares. </p> <p> Estamos posicionados para brindar cobertura nacional e internacional a más de 200 destinos e importación / exportación desde puertos y aeropuertos de la Costa Este de Estados Unidos y el Mar Caribe. </p> <p> Con servicio de establecimientos y almacenes en USA y el Caribe ubicados en: </p>",
+    "locations": [
+        {
+            "country": "Estados Unidos",
+            "locations": [
+                {
+                    "name": "Queens, New York 11379",
+                    "lat": 59.95,
+                    "lng": 30.33
+                },
+                {
+                    "name": "Miramar - Miami, Florida 33025",
+                    "lat": 59.95,
+                    "lng": 30.33
+                },
+                {
+                    "name": "Doral - Miami, Florida 33195",
+                    "lat": 59.95,
+                    "lng": 30.33
+                },
+                {
+                    "name": "Doral – Miami, Florida 33126",
+                    "lat": 59.95,
+                    "lng": 30.33
+                }
+            ]
+        },
+        {
+            "country": "Puerto Rico",
+            "locations": [
+                {
+                    "name": "Guaynabo, Puerto Rico 00966",
+                    "lat": 59.95,
+                    "lng": 30.33
+                }
+            ]
+        }
+    ]
+}

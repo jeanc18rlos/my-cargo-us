@@ -1,0 +1,59 @@
+{
+    "id": "contact_contact_es",
+    "content_type": "contact",
+    "title": "¿Tienes una duda? No dudes en escribirnos",
+    "form": {
+        "submit": "Enviar",
+        "name": "Nombre",
+        "email": "Email",
+        "message": "Detalles adicionales",
+        "subject": {
+            "label": "Asunto",
+            "subjects": [
+                {
+                    "subject": "Envíe una o varias preguntas"
+                },
+                {
+                    "subject": "¿Tiene algún comentario?"
+                },
+                {
+                    "subject": "¿Requiere alguna tarifa o presupuesto?"
+                },
+                {
+                    "subject": "¿Solicita una recojida de paquetes o carga?"
+                },
+                {
+                    "subject": "¿Solicita información sobre Compra Asistida?"
+                },
+                {
+                    "subject": "¿Requiere de un Combo de Alimentos o Higiene Personal?"
+                },
+                {
+                    "subject": "Quejas o sugerencias"
+                },
+                {
+                    "subject": "Saludos o Felicitaciones"
+                },
+                {
+                    "subject": "Otro"
+                }
+            ]
+        }
+    },
+    "schedule": {
+        "title": "Horarios",
+        "schedules": [
+            {
+                "days": "Lunes a Sabado",
+                "hours": "9:00am - 6:00pm"
+            }
+        ]
+    },
+    "details": {
+        "title": "Datos de contacto",
+        "location": "58-29 74th Street, No.3 Middle Village, NY, US 11379",
+        "contact_number": "+ 1 (718) 500-75.19",
+        "whatsapp": "+ 1 (929) 200-34.23",
+        "email": "support@mycargo.us"
+    }
+}

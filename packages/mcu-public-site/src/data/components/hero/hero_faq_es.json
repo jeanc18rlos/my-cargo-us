@@ -1,0 +1,21 @@
+{
+    "id": "hero_faq_es",
+    "content_type": "hero",
+    "background": "/hero/faq.jpeg",
+    "title": "Preguntas Frecuentes",
+    "links": [
+        {
+            "link": "/",
+            "label": "Home"
+        },
+        {
+            "link": "/",
+            "label": "Soporte"
+        },
+        {
+            "link": "/soporte/preguntas-frecuentes",
+            "label": "Preguntas Frecuentes"
+        }
+        
+    ]
+}

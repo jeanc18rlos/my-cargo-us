@@ -1,0 +1,33 @@
+{
+    "id": "partners_en",
+    "content_type": "carousel",
+    "title": "Afiliated stores",
+    "desc": "<p>Puedes comprar en cualquier tienda online y enviar directamente a nuestras ubicaciones en los Estados Unidos. Con nuestro servicio de compra asistida, podemos ayudarte a obtener el producto que quieres aunque no poseas un metodo de pago soportado por la plataforma donde quieres comprar</p> ",
+    "subTitle": "Choose between hundreds of stores",
+    "slides": [
+        {
+            "image": "/clients/1.png",
+            "label": "Amazon"
+        },
+        {
+            "image": "/clients/2.png",
+            "label": "Walmart"
+        },
+        {
+            "image": "/clients/3.png",
+            "label": "Etsy"
+        },
+        {
+            "image": "/clients/4.png",
+            "label": "Ebay"
+        },
+        {
+            "image": "/clients/5.png",
+            "label": "Wish"
+        },
+        {
+            "image": "/clients/6.png",
+            "label": "Costco"
+        }
+    ]
+}

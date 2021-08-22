@@ -1,0 +1,59 @@
+{
+    "id": "membership_en",
+    "content_type": "membership",
+    "subTitle": "Are you ready to buy and ship?",
+    "title": "Become member of My Cargo US!",
+    "content": "<span>Become a Member of My Cargo US and send your packages and cargo at good prices in just one click!. Compare and generate your purchases online, from Stores in the US, for your home, business or office.</span><br/><br/><span>To get started, choose now a membership that suits your shipping needs, completely free!</span>",
+    "highlightPlaceHolder": "featured",
+    "memberships": [
+        {
+            "title": "Standard",
+            "desc": "With the standard Membership, you can enjoy the following benefits:",
+            "benefits": [
+                "1 package per store",
+                "My Cargo US shipping address",
+                "International Locker in Miami and New York",
+                "Online Locker Manager",
+                "Free storage for 60 days",
+                "Express air shipments",
+                "Low prices on repackaging packages"
+            ],
+            "link": "/register",
+            "placeHolder": "Sign Up",
+            "isHighlighted": false
+        },
+        {
+            "title": "Premium",
+            "desc": "With the premium Membership, you can enjoy all the benefits of Standard membership plus:",
+            "benefits": [
+                "Many packages from many stores",
+                "My Cargo US shipping address",
+                "10% volume shipping discount",
+                "Air, sea and land shipments",
+                "Free package consolidation",
+                "Multiple shipments to different destinations",
+                "Pick up packages"
+            ],
+            "link": "/register",
+            "placeHolder": "Sign Up",
+            "isHighlighted": true
+        },
+        {
+            "title": "Cargo",
+            "desc": "With the cargo Membership, you can enjoy all the benefits of Premium membership plus:",
+            "benefits": [
+                "High volume of packages and cargo",
+                "Consolidation of packages and cargo",
+                "Low prices on repackaging packages",
+                "Attention in Customs Clearance",
+                "Handling of hazardous materials",
+                "Personalized attention",
+                "Door to Door Service",
+                "Business-level support and benefits"
+            ],
+            "link": "/register",
+            "placeHolder": "Sign Up",
+            "isHighlighted": false
+        }
+    ]
+}

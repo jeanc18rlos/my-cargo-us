@@ -1,0 +1,198 @@
+{
+    "id": "faq_faq_en",
+    "content_type": "faq",
+    "label": "categories",
+    "contact": {
+        "title": "Dedicated customer support",
+        "content": "Our global presence guarantees the punctuality, compliance and efficiency of when taking your complaints or doubts.",
+        "link": "/",
+        "label": "Talk to an Agent"
+    },
+    "legal": {
+        "title": "Avisos Legales",
+        "links": [
+            {
+                "link": "/",
+                "label": "Legal Advise"
+            },
+            {
+                "link": "/",
+                "label": "Terms and conditions"
+            },
+            {
+                "link": "/",
+                "label": "Privacy Policy"
+            },
+            {
+                "link": "/",
+                "label": "Cookies Policy"
+            }
+        ]
+    },
+    "faq": [
+        {
+            "group": "shipping",
+            "questions": [
+                {
+                    "question": "What are my U.S. and international shipping options?",
+                    "answer": "My Cargo US offers one national shipping option for the entire USA, and two international shipping options: Domestic ground up to 5 business days, international air with delivery from 5 business days, and international ocean with delivery from 15 business days. Choose the one that best suits your shipping needs."
+                },
+                {
+                    "question": "What kind of cargo can I ship via My Cargo US?",
+                    "answer": "You can ship any type of cargo: parcels, boxes, packages, containerized cargo, bulk, oversized and hazardous cargo. Depending on the type of cargo you usually handle, you can become a Standard Member for small and medium-sized packages, Premium for parcels, boxes and even medium-sized packages in volume and quantities, and Cargo for shipping cargo in large volumes, containerized, bulk, oversized and hazardous cargo. Choose the service that best suits your needs. Currently, we operate three warehouses in the City of Miami, adapted to the needs of our customers and a facility in New York."
+                },
+                {
+                    "question": "How can I access the different shopping stores in the USA?",
+                    "answer": "You can shop at hundreds of stores! Visit our website and click on Shopping Stores, there you will find web links and a list of stores in the USA, which you can access and take you directly to the web portal of the store of your choice."
+                },
+                {
+                    "question": "What shipping address should I enter at checkout in the shopping stores?",
+                    "answer": "Please enter the shipping address of your International Locker in Miami that was assigned to you at the time of your My Cargo US registration, which will be the delivery destination for your shipment to the warehouse. Also remember to put your assigned Locker Number along with your name."
+                },
+                {
+                    "question": "Is there any monthly or annual cost to have an international locker?",
+                    "answer": "No, having an international locker with us is completely free, and it is free of any monthly or yearly maintenance fees, so you only have to pay if you ship, otherwise if you do not move your account no charges are generated."
+                },
+                {
+                    "question": "How do I create my international mailbox in the USA?",
+                    "answer": "Creating an international mailbox in Miami or New York with My Cargo US is very easy. In the home menu you will find the option to Register, you must fill out the form with your personal information and shipping address, once you have done that you will be able to enjoy our services. After that you will be asked to upload in your account the main data required by the customs authorities for the shipment and reception of your packages and cargo at international level, where applicable."
+                },
+                {
+                    "question": "How can i track my order?",
+                    "answer": "My Cargo US will constantly track your order and inform you of its status so you can feel confident that your order is being tracked to your door."
+                },
+                {
+                    "question": "Can I ship goods if I live outside of Miami or New York?",
+                    "answer": "Yes, you can make your purchases online and have them shipped directly to our warehouse address in Miami or New York or let us know if you require us to pick up your packages directly."
+                },
+                {
+                    "question": "Can I ship goods if I live outside the USA?",
+                    "answer": "Yes, you can make your purchases online and send them to our warehouse address in Miami or New York and from there to the address you have placed in the Registration to the destination country."
+                }
+            ]
+        },
+        {
+            "group": "destination",
+            "questions": [
+                {
+                    "question": "From and to which cities in the U.S. can I ship?",
+                    "answer": "From any origin and destination in the United States you can ship your packages by sending them to the Miami Warehouse. We can also pick them up from the comfort of your home or office and deliver them to this same warehouse."
+                },
+                {
+                    "question": "Where do you ship to?",
+                    "answer": "We ship direct to anywhere in the USA, Latin America and the world. Just tell us where you want to send and we will gladly assist you. In the rates section you will find the main shipping destinations, if you require a different rate do not hesitate to write us and we will send it to you as soon as possible."
+                },
+                {
+                    "question": "How do I know that my packages are already in the warehouse?",
+                    "answer": "When your package arrives at the Miami Warehouse or New York facility, it will be weighed and measured and you will be notified via email that it has been placed in your locker, ready to be shipped to your shipping address. Due to the large number of shipments that are processed daily, this delivery time can vary from two to five days."
+                },
+                {
+                    "question": "Do you deliver the package to the house?",
+                    "answer": "The fee includes the dispatch of your merchandise from the Warehouse to any destination of your choice in the USA, Latin America or the world. If you are located in the interior of your country, we will ship your merchandise directly to your home or to the facilities of the national shipping company, depending on your destination address. Please note that in some cases, depending on national ground access or force majeure, you will have to pick up your packages directly at your local or nearest shipping branch."
+                },
+                {
+                    "question": "What payment methods does My Cargo US accept?",
+                    "answer": "In My Cargo US we accept: Bank Transfers to Bank of America, Transfer via Zelle, Paypal, AirTm, Transfer to Banks in local currency (Only for Venezuela - Banco Banesco; and Banco Estado de Chile)."
+                },
+                {
+                    "question": "Do shipping charges include customs duties, tariffs or taxes?",
+                    "answer": "Yes, all air and personal shipments are tax inclusive. Some countries include taxes on imported products, check the tax rate for your country or contact us and we will gladly assist you in your request. \n For business and ocean or freight shipments, import duties and taxes must be calculated for your country, which we include on the invoice, after the appropriate customs import cargo checks have been made. You can verify, prior to your import, the approximate cost of duties and taxes payable by contacting your local customs office for more information on import duties or taxes. You can also ask us via mail for a quotation of what you wish to import, in order to calculate the approximate taxes to be paid according to the type and volume of your cargo."
+                },
+                {
+                    "question": "How are shipping rates calculated?",
+                    "answer": "Air Freight: It is charged in relation to the volume weight, it is calculated for each pound (0.45Kg) of weight that the shipment has, and also the measures of the box are verified to obtain the volume weight. For air cargo the following formula is applied: Multiply the three measurements of your box in inches and then divide by 166. (W x L x H) / 166. \nThe largest size of your box will always be charged, if it is heavier it will be shipped by weight; if it is more volumetric it will be shipped by volume. \nOcean Freight: All cargo shipped by sea is charged in relation to the volume of your cargo, it is calculated based on the measures in inches (2.54 cms) of the shipment regardless of the weight, that is to say by its volume. The formula to get the cubic feet of your cargo is height x width x depth, that result must be divided by 1728, the result is the cubic feet of your box, the formula to apply is: (Length x Width x Height) / 1728. \nThis tells us that your volume is based on the cubic foot, which must be multiplied by our shipping rate according to the desired destination. \nGround Freight: It is charged in relation to the volume weight, it is calculated for each pound (0.45Kg) of weight that the shipment has, and also the measures of the box are verified to obtain the volume weight. For land cargo the following formula is applied: Multiply the three measurements of your box in inches and then divide by 139. (Width x Length x Height) / 139. \nSwill always be charged the larger size of your box, if it is heavier it will be shipped by weight; if it is more volumetric it will be shipped by volume."
+                },
+                {
+                    "question": "When am I charged for shipping and handling?",
+                    "answer": "As soon as your order arrives at the international warehouse, the measurements and weight will be verified and you will be notified by mail. This way, if you have other packages you can repack or consolidate them into one package. The total cost will be given to you at the end of your Dispatch Alert in your locker manager, once you have informed if you are going to insure, repack or consolidate, and you have been assigned your Waybill, and you must cancel your shipment for it to leave on the next trip."
+                },
+                {
+                    "question": "How does combining my purchases help me save money?",
+                    "answer": "Shipping multiple packages overseas directly from online stores can be very costly. The packing team efficiently and securely combines your purchases into a single box, saving you BIG up to over 50% on international shipping rates."
+                }
+            ]
+        },
+        {
+            "group": "costs",
+            "questions": [
+                {
+                    "question": "How much does it cost to send a package?",
+                    "answer": "The cost of using our services if you purchase the package and ship it with us is as follows: \n- Shipping costs will depend on the weight of the package for air and land shipments or cubic feet for ocean shipments according to the destination tariff. If your country is not included in the destination tariffs, please contact us and we will get back to you as soon as possible. \n- Additional costs: 5% insurance, optional, and type of packaging. \n- Taxes of the country you are shipping to, some countries require you to pay the taxes in advance and others require you to pay the fees upon arrival of your package in the destination country."
+                },
+                {
+                    "question": "Can you do my shopping? ",
+                    "answer": "Yes, for a percentage of 15% of the value of the purchase we perform the service of Assisted Purchase in any store, supermarket, distributor, company or business in the U.S. with destination to the warehouse in Miami. Please let us know about your request by clicking on contact us and we will get back to you as soon as possible."
+                },
+                {
+                    "question": "Is there a charge for storing my packages and freight?",
+                    "answer": "You have up to 60 consecutive days to store your packages free of charge at the Miami Warehouses, without incurring any storage fees. \nAfter the storage days have elapsed, storage charges will be applied, the costs of which depend on the volume and time of permanence of the cargo in the warehouse."
+                },
+                {
+                    "question": "Can I pick up at your offices, where are you located?",
+                    "answer": "PYou can pick up your packages at our facilities in those places where we have physical presence. In addition to our service facility located in the USA, and operating with three warehouses in the City of Miami and a facility in New York City to serve different destinations and cargo, we have a facility located in the City of Caracas in Venezuela, for your convenience, where you can pick up your shipments directly if you wish and it is of your convenience. \nFor other destinations the shipment is made directly to the door of your home, company or office. If it goes to the interior it will arrive directly to your door or to the branch of the office of dispatch of national shipments."
+                },
+                {
+                    "question": "What days are shipments dispatched?",
+                    "answer": "LAir and ground shipments are dispatched weekly, between Tuesday and Friday, arriving from 5 working days. Ocean shipments are dispatched on Fridays, arriving from 15 working days. \nDue to local or national quarantine restrictions, shipments may take a few days longer to arrive."
+                },
+                {
+                    "question": "What is your privacy policy?",
+                    "answer": "We understand our members' concerns regarding confidentiality, and it is our policy never to sell or give away any member information. The privacy of our members is of utmost importance to us. Details can be found in our Privacy Policy."
+                },
+                {
+                    "question": "Can I insure my shipments?",
+                    "answer": "Yes, shipping insurance can be purchased for 5% of the insured value. Although damaged or lost packages are rare, we recommend that you insure your order in the unlikely event that something happens to your products, it is well worth it, as it represents only a very small amount of your total purchase invoice."
+                },
+                {
+                    "question": "Is it mandatory to insure my shipment?",
+                    "answer": "No, insurance is not mandatory, however, we always recommend insuring any cargo, especially electronic equipment such as cell phones, computers and high value devices, as well as for those shipments that must make a national transit to the interior, since any incident is the responsibility of the land carrier, and according to the policies they will only cover any incident in case the package has been insured. \nNote: You cannot file a claim for damage or loss if you do not select shipping insurance."
+                },
+                {
+                    "question": "What does the shipping insurance cover?",
+                    "answer": "Shipping insurance covers loss or damage to items in your shipment. Insurance does NOT cover import duties and taxes, domestic shipping charges or damage to manufacturer's packaging."
+                }
+            ]
+        },
+        {
+            "group": "damages",
+            "questions": [
+                {
+                    "question": "I received my package, but it is missing and/or damaged, what should I do?",
+                    "answer": "If any item is damaged or missing, you must notify the carrier who delivers it, and you must make sure that the observation is placed in the delivery note that you sign when you receive a package. At the same time you must write us an email detailing the damage to your item and attaching photographs of it where you can clearly see the damage, you must also attach photographs of the box, security seals, and labels that have the box received. This communication must be sent the same day of receipt of the package. It should be noted that there are Insurance Claims Policies, and the claim procedure must be followed, since any non-compliance with the aforementioned policies will result in your claim 'Not Proceeding'"
+                },
+                {
+                    "question": "Can I return the goods ordered through My Cargo US?",
+                    "answer": "No, a return cannot be processed on your behalf unless the items arriving at the warehouse are incorrect or damaged."
+                },
+                {
+                    "question": "Do you open my packages?",
+                    "answer": "Yes, the packing team is required to open all packages arriving at the warehouse. These packages, product of your purchases, are carefully checked to make sure they were not broken during shipment and are legal for export from the USA."
+                },
+                {
+                    "question": "What does the Repack Service consist of?",
+                    "answer": "Repacking is when all your items are consolidated or put together and repacked in order to reduce the volume of the shipment, so that all your items arrive in the same box, well packed to your hands. When repacking the items are removed from the supplier's carton where they come from, and all are consolidated into a single carton which is where they are shipped, so that you pay only the pounds of that final box and not the boxes initially received, this will help you save up to 50% in shipping costs. No goods are removed from their original cartons."
+                },
+                {
+                    "question": "What is Consolidation?",
+                    "answer": "Consolidation is the joining of two or more boxes in the same shipment. Consolidation does not remove the items from the cartons as in the case of Repack, it is only limited to sending your different boxes received in your locker on the same flight, in order to receive them together in the same delivery, or in its effects improve or reinforce the packaging of the consolidated cargo to be shipped."
+                },
+                {
+                    "question": "How can I request a Repackaging or Consolidation?",
+                    "answer": "To request a repacking or consolidation, in your locker manager, under Dispatch Alert, you can request the service, which will give you the types and costs of repacking or consolidation you want to perform, depending on the needs of your shipment, which will be automatically charged and added to the total cost of your shipment."
+                },
+                {
+                    "question": "What is the difference between restricted and prohibited items?",
+                    "answer": "Prohibited Items: Certain items may be prohibited in your country or for export from the United States, and we cannot ship these items to you. If you are unsure whether an item is prohibited, please contact us before ordering, and/or further review the list of prohibited and restricted items. \nRestricted Items: Some restricted items may be shipped, but only after compliance verification. Check the item to make sure it complies with U.S. laws and the laws of your country. If you have questions about shipping a restricted item, please contact us before shipping the item to your locker. Please review our list of prohibited and restricted items before purchasing."
+                },
+                {
+                    "question": "Do you ship dangerous goods and how are these goods considered?",
+                    "answer": "If we ship dangerous goods. Dangerous goods / hazardous materials are items that require special handling, additional packaging and labeling to be transported internationally. Shipping regulations for dangerous goods in some countries are different. Items considered dangerous goods include: flammable or pressurized items (e.g. hairspray, spray paint, lighters, nail polish, perfume, etc). Dangerous goods items may be required to be shipped separately from non-dangerous goods items. See our list of restricted and prohibited items for more information, or contact us for specific information about your country and the items you wish to ship."
+                },
+                {
+                    "question": "Are there any special considerations when shipping to different countries?",
+                    "answer": "Yes, there are special considerations when shipping to different countries, please check what are these prohibited items in: Restricted and Prohibited Items in the What Not to Ship section."
+                }
+            ]
+        }
+    ]
+}

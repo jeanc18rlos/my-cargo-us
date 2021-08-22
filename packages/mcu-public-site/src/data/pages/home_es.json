@@ -1,0 +1,41 @@
+{
+    "content_type": "page",
+    "language": "es",
+    "slug": "/",
+    "translations": [
+        {
+            "path": "/en",
+            "label": "english"
+        }
+    ],
+    "seo": {
+        "title": "Home",
+        "description": "Una solucion de cargo para todos!"
+    },
+    "components": [
+        {
+            "content_type": "slider",
+            "id": "slider_home_es"
+        },
+        {
+            "content_type": "shortcut",
+            "id": "shortcut_home_es"
+        },
+        {
+            "content_type": "benefit",
+            "id": "benefits_home_es"
+        },
+        {
+            "content_type": "membership",
+            "id": "membership_es"
+        },
+        {
+            "content_type": "carousel",
+            "id": "partners_es"
+        },
+        {
+            "content_type": "service",
+            "id": "services_grid_es"
+        }
+    ]
+}

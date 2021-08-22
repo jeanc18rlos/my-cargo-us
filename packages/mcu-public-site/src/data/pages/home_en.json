@@ -1,0 +1,41 @@
+{
+    "content_type": "page",
+    "language": "en",
+    "slug": "/en",
+    "translations": [
+        {
+            "path": "/",
+            "label": "español"
+        }
+    ],
+    "seo": {
+        "title": "Home",
+        "description": "One Cargo solution to rule them all"
+    },
+    "components": [
+        {
+            "content_type": "slider",
+            "id": "slider_home_en"
+        },
+        {
+            "content_type": "shortcut",
+            "id": "shortcut_home_en"
+        },
+        {
+            "content_type": "benefit",
+            "id": "benefits_home_en"
+        },
+        {
+            "content_type": "membership",
+            "id": "membership_en"
+        },
+        {
+            "content_type": "carousel",
+            "id": "partners_en"
+        },
+        {
+            "content_type": "service",
+            "id": "services_grid_en"
+        }
+    ]
+}
