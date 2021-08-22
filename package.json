@@ -4,9 +4,9 @@
     "packages/*"
   ],
   "scripts": {
-    "develop": "yarn workspace mcu-public-site develop",
-    "build": "yarn workspace mcu-public-site build",
-    "clean": "yarn workspace mcu-public-site clean && yarn workspace mcu-private-site clean"
+    "develop": "yarn workspace mcu-landing-site develop",
+    "build": "yarn workspace mcu-landing-site build",
+    "clean": "yarn workspace mcu-landing-site clean && yarn workspace mcu-private-site clean"
   },
   "husky": {
     "hooks": {
@@ -23,5 +23,5 @@
     }
   },
   "version": "0.0.0",
-  "name": "public"
+  "name": "my-cargo-us"
 }
