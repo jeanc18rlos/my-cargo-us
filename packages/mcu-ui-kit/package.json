@@ -1,0 +1,116 @@
+{
+  "name": "mcu-ui-kit",
+  "version": "1.0.0",
+  "main": "build",
+  "license": "MIT",
+  "files": [
+    "build"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-backgrounds": "^5.3.19",
+    "@storybook/addon-centered": "^5.3.19",
+    "@storybook/addon-console": "^1.2.1",
+    "@storybook/addon-docs": "^5.3.19",
+    "@storybook/addon-info": "^5.3.19",
+    "@storybook/addon-knobs": "^5.3.19",
+    "@storybook/addon-links": "^5.3.19",
+    "@storybook/addon-options": "^5.3.19",
+    "@storybook/addon-storysource": "^5.3.19",
+    "@storybook/addon-viewport": "^5.3.19",
+    "@storybook/addons": "^5.3.19",
+    "@storybook/react": "^5.3.19",
+    "@storybook/storybook-deployer": "^2.8.6",
+    "@testing-library/dom": "^8.1.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/react": "^17.0.19",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-test-renderer": "^17.0.1",
+    "@types/storybook__addon-actions": "^3.4.3",
+    "@types/storybook__addon-info": "^4.1.2",
+    "@types/storybook__addon-options": "^4.0.2",
+    "@types/storybook__react": "^4.0.2",
+    "@types/styled-components": "^5.1.12",
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "babel-loader": "^8.2.2",
+    "cache-loader": "^4.1.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "plop": "^2.7.4",
+    "prettier": "^2.3.2",
+    "react-docgen-typescript-loader": "^3.7.2",
+    "standard-version": "^9.3.1",
+    "storybook-addon-jsx": "^7.3.3",
+    "storybook-dark-mode": "^0.1.9",
+    "storybook-styled-components-theme-selector": "^1.1.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-recommended": "^5.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-prettier": "^1.2.0",
+    "stylelint-processor-styled-components": "^1.10.0",
+    "ts-loader": "8.3.0"
+  },
+  "dependencies": {
+    "framer-motion": "^2.2.0",
+    "polished": "^3.4.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.0",
+    "swiper": "^6.7.1"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "subject-case": [
+        2,
+        "never",
+        [
+          "start-case",
+          "pascal-case"
+        ]
+      ]
+    }
+  },
+  "lint-staged": {
+    "./src/components/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E  HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "scripts": {
+    "clean": "rimraf build",
+    "compile": "yarn run clean && tsc && yarn run copy-assets",
+    "test": "jest",
+    "copy-assets": "cp -r  src/assets build/assets",
+    "coverage": "jest --coverage",
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix",
+    "lint:css": "stylelint './src/components/**/styled.tsx'",
+    "generate": "plop --plopfile ./.plop/plop.config.js",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "prepublishOnly": "yarn run clean && yarn run compile",
+    "release": "standard-version"
+  }
+}

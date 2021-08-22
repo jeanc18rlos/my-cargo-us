@@ -1,0 +1,13 @@
+import styled, { StyledProps } from 'styled-components';
+import {{ properCase name }} from '../{{ properCase name }}';
+
+type Props = StyledProps<{
+  color?: string;
+}>;
+
+
+const Styled{{ properCase name }} = styled({{ properCase name }})`
+  color: ${({theme, color}: Props) => color ? color : theme.colors.whiteColor};
+`;
+
+export default Styled{{ properCase name }};

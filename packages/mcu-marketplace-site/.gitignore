@@ -31,7 +31,7 @@ bower_components
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
-build/
+
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -67,11 +67,3 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
-
-
-.prettierignore
-.prettierrc
-node_modules
-.env
-.yarn
-

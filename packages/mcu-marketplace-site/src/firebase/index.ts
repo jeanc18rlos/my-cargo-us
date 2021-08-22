@@ -19,7 +19,7 @@ const rrfConfig = {
   measurementId: 'G-5LTGM6G78M'
 };
 const getFirebase = () => {
-  if (typeof window !== 'undefined') return firebase.initializeApp(rrfConfig, 'admin');
+  if (typeof window !== 'undefined') return firebase.initializeApp(rrfConfig, 'marketplace');
   return null;
 };
 
