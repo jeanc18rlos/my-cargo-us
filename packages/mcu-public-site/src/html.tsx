@@ -1,7 +1,16 @@
 import React from 'react'
-import PropTypes from 'prop-types'
+import { ReactNode } from "react"
 
-export default function HTML (props) {
+interface Props {
+  htmlAttributes: any,
+  headComponents: ReactNode,
+  bodyAttributes: any,
+  preBodyComponents: ReactNode,
+  body: any,
+  postBodyComponents: ReactNode
+}
+
+export default function HTML (props: Props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
@@ -27,11 +36,4 @@ export default function HTML (props) {
   )
 }
 
-HTML.propTypes = {
-  htmlAttributes: PropTypes.object,
-  headComponents: PropTypes.array,
-  bodyAttributes: PropTypes.object,
-  preBodyComponents: PropTypes.array,
-  body: PropTypes.string,
-  postBodyComponents: PropTypes.array
-}
+
