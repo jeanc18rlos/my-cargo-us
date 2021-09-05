@@ -36,9 +36,9 @@ const Carousel = ({
               <div className="heading heading-5 text-center">
                 <p className="heading-subtitle">{subTitle}</p>
                 <h2 className="heading-title">{title}</h2>
-                <p style={{ textAlign: 'left' }} className="heading-desc">
+                <div style={{ textAlign: 'left' }} className="heading-desc">
                   {ReactHtmlParser(desc)}
-                </p>
+                </div>
               </div>
             </div>
           </div>
