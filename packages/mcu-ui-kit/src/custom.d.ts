@@ -28,6 +28,6 @@ declare module 'styled-components' {
   export interface DefaultTheme extends ThemeInterface {}
 }
 
-declare module "@storybook/addon-info" {
+declare module '@storybook/addon-info' {
   export function action(name: string, ...params: any[]): any;
 }

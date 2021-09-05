@@ -6,7 +6,8 @@
   "scripts": {
     "develop": "yarn workspace mcu-public-site develop",
     "build": "yarn workspace mcu-public-site build",
-    "clean": "yarn workspace mcu-public-site clean && yarn workspace mcu-private-site clean"
+    "clean": "yarn workspace mcu-public-site clean && yarn workspace mcu-private-site clean",
+    "prettier": "prettier --write \"packages/**/*.{ts, tsx}\" "
   },
   "husky": {
     "hooks": {

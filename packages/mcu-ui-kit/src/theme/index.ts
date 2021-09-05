@@ -53,14 +53,14 @@ const theme: ThemeInterface = {
     container: {
       sm: 46, // rem
       md: 61, // rem
-      lg: 76, // rem
+      lg: 76 // rem
     },
     breakpoints: {
       xs: 0, // em
       sm: 48, // em
       md: 64, // em
-      lg: 75, // em
-    },
+      lg: 75 // em
+    }
   },
   colors: {
     disabledColor: '#CAD3DE',
@@ -74,12 +74,12 @@ const theme: ThemeInterface = {
     buttonSecondary: '#381451',
     buttonSecondaryDisabled: '#381451',
     accent: '#e9004b',
-    tangaroaBlue: '#081F3B',
+    tangaroaBlue: '#081F3B'
   },
   fonts: {
     primaryFont: 'Roboto',
-    secondaryFont: 'Poppins',
-  },
+    secondaryFont: 'Poppins'
+  }
 };
 
 export default theme;
