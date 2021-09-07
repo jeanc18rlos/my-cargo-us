@@ -1,15 +1,9 @@
-import React, { memo } from "react";
+import { memo, ReactNode } from 'react';
 
 type CardProps = {
-  children: React.ReactNode;
-}
+  children: ReactNode;
+};
 
-const Card = ({
-  children,
-}:CardProps) => (
-  <div>
-    {children}
-  </div>
-);
+const Card = ({ children }: CardProps) => <div>{children}</div>;
 
 export default memo(Card);

@@ -29,6 +29,7 @@ const createPages = async (props: CreatePages) => {
     benefit: {},
     faq: {},
     contact: {},
+    about: {},
     carousel: {},
     service: {},
     membership: {},
@@ -46,7 +47,7 @@ const createPages = async (props: CreatePages) => {
       label
     }
   }
-
+  
   fragment Service on service {
     id
     content_type
@@ -61,7 +62,7 @@ const createPages = async (props: CreatePages) => {
       features
     }
   }
-
+  
   fragment Membership on membership {
     id
     content_type
@@ -123,6 +124,14 @@ const createPages = async (props: CreatePages) => {
       contact_number
       whatsapp
       email
+    }
+  }
+  fragment About on about {
+    id
+    content_type
+    title
+    body {
+      intro
     }
   }
   fragment Location on location {
@@ -309,6 +318,11 @@ const createPages = async (props: CreatePages) => {
         ...Contact
       }
     }
+    allAbout {
+      nodes {
+        ...About
+      }
+    }
     allService {
       nodes {
         ...Service
@@ -342,6 +356,7 @@ const createPages = async (props: CreatePages) => {
       }
     }
   }
+  
 `)
 
   result.data.allLayout.nodes.forEach((node: any) => {
@@ -362,6 +377,10 @@ const createPages = async (props: CreatePages) => {
   result.data.allContact.nodes.forEach((node: any) => {
     components.contact[node.id] = node
   })
+  result.data.allAbout.nodes.forEach((node: any) => {
+    components.about[node.id] = node
+  })
+
   result.data.allSlider.nodes.forEach((node: any) => {
     components.slider[node.id] = node
   })
@@ -395,3 +414,12 @@ const createPages = async (props: CreatePages) => {
 }
 
 exports.createPages = createPages
+
+exports.onCreateBabelConfig = (props: any) => {
+  props.actions.setBabelPlugin({
+    name: "@babel/plugin-transform-react-jsx",
+    options: {
+      runtime: "automatic",
+    },
+  })
+}

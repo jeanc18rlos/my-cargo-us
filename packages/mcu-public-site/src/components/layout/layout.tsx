@@ -1,8 +1,8 @@
-import React, { ReactChild } from 'react'
+import { ReactChild } from "react"
 
-import Header, { HeaderData } from './header'
-import Footer, { FooterData } from './footer'
-import { Translation } from '../../templates/template'
+import Header, { HeaderData } from "./header"
+import Footer, { FooterData } from "./footer"
+import { Translation } from "../../templates/template"
 
 interface Props extends LayoutI {
   children: ReactChild | Array<ReactChild>
@@ -14,22 +14,10 @@ export interface LayoutI {
   header: HeaderData
   footer: FooterData
 }
-const Layout = ({
-  children,
-  header,
-  translations,
-  footer,
-  section1InView,
-  language
-}: Props) => {
+const Layout = ({ children, header, translations, footer, section1InView, language }: Props) => {
   return (
     <div className="wrapper clearfix" id="wrapperParallax">
-      <Header
-        section1InView={section1InView}
-        translations={translations}
-        data={header}
-        language={language}
-      />
+      <Header section1InView={section1InView} translations={translations} data={header} language={language} />
       <main>{children}</main>
       <Footer data={footer} />
     </div>

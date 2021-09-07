@@ -1,0 +1,16 @@
+{
+  "id": "hero_about_es",
+  "content_type": "hero",
+  "background": "/hero/contact.jpeg",
+  "title": "Acerca de My Cargo US",
+  "links": [
+    {
+      "link": "/en",
+      "label": "Home"
+    },
+    {
+      "link": "/contact",
+      "label": "Contact"
+    }
+  ]
+}

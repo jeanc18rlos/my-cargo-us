@@ -88,6 +88,14 @@ fragment Contact on contact {
     email
   }
 }
+fragment About on about {
+  id
+  content_type
+  title
+  content {
+    intro
+  }
+}
 fragment Location on location {
   content_type
   id
@@ -270,6 +278,11 @@ query {
   allContact {
     nodes {
       ...Contact
+    }
+  }
+  allAbout {
+    nodes {
+      ...About
     }
   }
   allService {

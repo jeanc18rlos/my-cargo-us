@@ -1,7 +1,6 @@
-import React from 'react'
-import { Swiper, SwiperSlide } from 'swiper/react'
-import SwiperCore, { Autoplay, Pagination, Navigation } from 'swiper/core'
-import ReactHtmlParser from 'react-html-parser'
+import { Swiper, SwiperSlide } from "swiper/react"
+import SwiperCore, { Autoplay, Pagination, Navigation } from "swiper/core"
+import ReactHtmlParser from "react-html-parser"
 SwiperCore.use([Autoplay, Pagination, Navigation])
 
 interface CarouselSlide {
@@ -18,13 +17,11 @@ export interface CarouselData {
 interface CarouselProps {
   data: CarouselData
 }
-const Carousel = ({
-  data: { id, title, desc, subTitle, slides }
-}: CarouselProps) => {
+const Carousel = ({ data: { id, title, desc, subTitle, slides } }: CarouselProps) => {
   return (
     <section
       style={{
-        paddingTop: '140px'
+        paddingTop: "140px",
       }}
       className="cases-clients bg-parllax"
       id="cases-clients-1"
@@ -36,7 +33,7 @@ const Carousel = ({
               <div className="heading heading-5 text-center">
                 <p className="heading-subtitle">{subTitle}</p>
                 <h2 className="heading-title">{title}</h2>
-                <div style={{ textAlign: 'left' }} className="heading-desc">
+                <div style={{ textAlign: "left" }} className="heading-desc">
                   {ReactHtmlParser(desc)}
                 </div>
               </div>
@@ -48,24 +45,24 @@ const Carousel = ({
                 breakpoints={{
                   320: {
                     slidesPerView: 2,
-                    spaceBetween: 10
+                    spaceBetween: 10,
                   },
                   480: {
                     slidesPerView: 3,
-                    spaceBetween: 20
+                    spaceBetween: 20,
                   },
                   640: {
                     slidesPerView: 6,
-                    spaceBetween: 40
-                  }
+                    spaceBetween: 40,
+                  },
                 }}
                 loop={true}
                 autoplay={{
                   delay: 3000,
-                  disableOnInteraction: false
+                  disableOnInteraction: false,
                 }}
                 pagination={{
-                  clickable: true
+                  clickable: true,
                 }}
                 className="carousel owl-carousel"
               >
