@@ -8,7 +8,7 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "allowJs": false,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "moduleResolution": "node",
     "rootDirs": ["src", ".storybook"],
     "baseUrl": "./",

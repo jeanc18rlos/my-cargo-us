@@ -1,0 +1,25 @@
+{
+  "content_type": "page",
+  "language": "en",
+  "slug": "/about-us",
+  "translations": [
+    {
+      "path": "/acerca-de-nosotros",
+      "label": "español"
+    }
+  ],
+  "seo": {
+    "title": "About",
+    "description": "Send us a message!"
+  },
+  "components": [
+    {
+      "content_type": "hero",
+      "id": "hero_about_en"
+    },
+    {
+      "content_type": "about",
+      "id": "about_about_en"
+    }
+  ]
+}

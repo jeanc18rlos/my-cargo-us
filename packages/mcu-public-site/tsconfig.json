@@ -8,7 +8,7 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "allowJs": false,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "moduleResolution": "node",
     "rootDirs": ["src", "config"],
     "baseUrl": "./",
@@ -25,13 +25,5 @@
     "experimentalDecorators": true
   },
   "include": ["src/**/*", "config/**/*", "config/custom.d.ts"],
-  "exclude": [
-    "node_modules",
-    "build",
-    "public",
-    "scripts",
-    ".storybook",
-    "src/**/*.test.tsx",
-    "src/**/*.stories.tsx"
-  ]
+  "exclude": ["node_modules", "build", "public", "scripts", ".storybook", "src/**/*.test.tsx", "src/**/*.stories.tsx"]
 }
