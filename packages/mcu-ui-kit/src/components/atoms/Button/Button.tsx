@@ -1,19 +1,25 @@
 import React, { memo } from 'react';
 
 type ButtonProps = {
-    primary: boolean;
-    backgroundColor: string;
-    size: string;
-    label: string;
-    onClick: () => void;
+  children: any;
 };
-const Button = ({ primary, backgroundColor, size, label, ...props }: ButtonProps) => {
-    const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';
-    return (
-        <button className={['storybook-button', `storybook-button--${size}`, mode].join(' ')} {...props}>
-            {label}
-        </button>
-    );
+
+const Button = ({ children }: ButtonProps) => {
+  return (
+    <div className="gx-header-horizontal-top">
+      <div className="gx-container">
+        <div className="gx-header-horizontal-top-flex">
+          <div className="gx-header-horizontal-top-left">
+            <i className="icon icon-alert gx-mr-3" />
+          </div>
+          <ul className="gx-login-list">
+            <li>Login</li>
+            <li>Signup</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export default memo(Button);
