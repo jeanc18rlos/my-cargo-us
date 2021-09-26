@@ -14,7 +14,6 @@ module.exports = {
         tsNode: true
       }
     },
-    'gatsby-plugin-sass',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-image',
     {

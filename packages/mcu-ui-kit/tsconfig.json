@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "outDir": "build",
-    "module": "ES6",
-    "target": "es6",
-    "lib": ["es5", "es6", "es7", "es2017", "dom"],
+    "module": "commonjs",
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
     "types": ["react", "jest", "node"],
     "skipLibCheck": true,
     "sourceMap": true,

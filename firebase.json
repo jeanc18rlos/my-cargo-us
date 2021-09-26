@@ -11,6 +11,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
+    "predeploy": "yarn run build",
     "public": "packages/mcu-public-site/public",
     "ignore": [
       "firebase.json",

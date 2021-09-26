@@ -1,15 +1,16 @@
 module.exports = {
     env: {
         browser: true,
-        es6: true,
+        es2021: true,
     },
     extends: [
         'plugin:react/recommended',
         'airbnb',
         'plugin:@typescript-eslint/recommended',
-     
-        'eslint-config-prettier/@typescript-eslint',
+        'prettier/@typescript-eslint',
+        'plugin:prettier/recommended',
     ],
+    tsconfigRootDir: './tsconfig.json',
     parser: '@typescript-eslint/parser',
     parserOptions: {
         project: './tsconfig.json',

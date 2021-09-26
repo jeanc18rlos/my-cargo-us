@@ -1,4 +1,7 @@
-import { BuildArgs, Actions } from 'gatsby'
+/**
+ * 
+ * 
+ * import { BuildArgs, Actions } from 'gatsby'
 
 interface CreatePages extends BuildArgs {
   actions: Actions
@@ -389,3 +392,7 @@ exports.createPages = async ({
     console.log(error)
   }
 }
+
+ * 
+ * 
+ */
