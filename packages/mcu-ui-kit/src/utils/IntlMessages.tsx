@@ -1,6 +1,6 @@
 import React from 'react';
-import { FormattedMessage, injectIntl } from 'react-intl';
+import { FormattedMessage } from 'react-intl';
 
-const InjectMessage: any = (props: any) => injectIntl(() => <FormattedMessage {...props} />);
+const InjectMessage: any = ({ id }: any) => <FormattedMessage {...{ id }} />;
 
 export default InjectMessage;

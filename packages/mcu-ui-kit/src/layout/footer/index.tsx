@@ -10,7 +10,7 @@ import {
   MessageOutlined,
   PhoneFilled
 } from '@ant-design/icons';
-const LogoDark = require('../../assets/layout/logo_dark.svg');
+import LogoDark from '../../assets/layout/logo_dark.svg';
 const FormItem = Form.Item;
 
 const services = ['Assited Purchase', 'Freight Shipping', 'Pickup Service', 'Food Shipping'];

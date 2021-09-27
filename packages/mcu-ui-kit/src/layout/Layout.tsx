@@ -83,7 +83,7 @@ export const MainLayout = ({
           </TopBar>
           <Header
             {...{
-              navStyle: topBarInView ? 'transparent' : 'solid',
+              navStyle: topBarInView ? '' : 'solid',
               isLoggedIn,
               LogoutAction,
               languageData,

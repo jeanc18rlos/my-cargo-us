@@ -996,5 +996,4 @@ const HorizontalNav = () => {
   );
 };
 
-
 export default HorizontalNav;

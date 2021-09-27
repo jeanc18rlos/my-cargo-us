@@ -1,15 +1,15 @@
-import React, { useState } from 'react';
+import React, { useState, memo } from 'react';
 import { Button, Dropdown, Layout, Menu, message, Popover, Select } from 'antd';
 import Icon from '@ant-design/icons';
 import { CustomScrollbars, Link, Media, SearchBox, MailNotification, AppNotification, UserInfo } from '../../';
 import { StyledHeader, StyledNav } from './styled';
 import { LanguageProps } from '..';
 
-import HorizontalNav from './horizontalNav/index';
+import HorizontalNav from './horizontalNav';
 
-const LogoLight = require('../../assets/layout/logo_light.svg');
-const LogoDark = require('../../assets/layout/logo_dark.svg');
-const MobileLogo = require('../../assets/layout/logo_mobile.svg');
+import LogoLight from '../../assets/layout/logo_light.svg';
+import LogoDark from '../../assets/layout/logo_dark.svg';
+import MobileLogo from '../../assets/layout/logo_mobile.svg';
 
 // SubComponents
 const { Header } = Layout;
@@ -224,4 +224,4 @@ const NavBar = ({
     </StyledHeader>
   );
 };
-export default NavBar;
+export default memo(NavBar);

@@ -16,7 +16,9 @@ export const StyledHeader: any = styled('div')`
     background-color: transparent;
     backdrop-filter: blur(${rem('20px')});
     padding: ${rem('18px')} 0 ${rem('18px')};
-    transition: 0.25s background ease-in-out;
+    transition: 0.35s background ease-in-out;
+    backface-visibility: hidden;
+    transform: translate3d(1deg);
     .gx-brand {
       width: ${rem('106px')};
       height: ${rem('64px')};
@@ -41,9 +43,13 @@ export const StyledHeader: any = styled('div')`
       }
     }
   }
+  .gx-header-horizontal-nav .ant-menu-submenu-horizontal > .ant-menu-submenu-title {
+    transition: 0.35s color ease-in-out;
+  }
   &.solid {
     header {
       background-color: #1d3557;
+      backdrop-filter: none;
     }
     .gx-header-horizontal-nav .ant-menu-submenu-horizontal > .ant-menu-submenu-title {
       color: #545454;
@@ -58,8 +64,11 @@ export const StyledNav = styled.div`
   border-left: 0;
   border-right: 0;
   background-color: transparent;
-  transition: 0.25s background ease-in-out;
+  transition: 0.35s background ease-in-out;
+  backface-visibility: hidden;
+  transform: translate3d(1deg);
   &.solid {
     background-color: white;
+    backdrop-filter: none;
   }
 `;

@@ -430,3 +430,17 @@ exports.onCreateBabelConfig = (props: any) => {
  * 
  * 
  */
+export const onCreateWebpackConfig = ({ stage, loaders, actions }: any) => {
+  if (stage === 'build-html' || stage === 'develop-html') {
+    actions.setWebpackConfig({
+      module: {
+        rules: [
+          {
+            test: /firebase/,
+            use: loaders.null()
+          }
+        ]
+      }
+    });
+  }
+};

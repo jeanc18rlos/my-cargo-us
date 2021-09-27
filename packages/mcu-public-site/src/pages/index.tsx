@@ -43,7 +43,7 @@ const languageData = [
 
 const Index = () => {
   const topbar = {
-    label: 'covid',
+    label: 'Covid 19 Disclaimer Advise, click Here, to know more ',
     link: '/covid-advice'
   };
   const [isLoggedIn, setLoggedIn] = useState(false);

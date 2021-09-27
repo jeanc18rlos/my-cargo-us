@@ -51,8 +51,8 @@ module.exports = {
         icon: "src/images/favicon.svg",
       },
     },
-    "mcu-private-site",
-    "mcu-marketplace-site",
+    //"mcu-private-site",
+    //"mcu-marketplace-site",
     // 'gatsby-plugin-gatsby-cloud'
   ],
 }

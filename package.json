@@ -5,8 +5,9 @@
   ],
   "scripts": {
     "develop": "yarn workspace mcu-public-site develop",
-    "build": "yarn run clean && yarn workspace mcu-ui-kit build && yarn workspace mcu-public-site build",
-    "clean": "yarn workspace mcu-public-site clean && yarn workspace mcu-private-site clean"
+    "clean": "yarn workspace mcu-public-site clean && yarn workspace mcu-private-site clean",
+    "build": "yarn run clean && yarn workspace mcu-public-site build",
+    "serve": "yarn workspace mcu-public-site serve"
   },
   "husky": {
     "hooks": {

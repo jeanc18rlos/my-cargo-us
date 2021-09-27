@@ -1,4 +1,4 @@
-import { default as firebaseLib } from 'firebase/app';
+import firebase from 'firebase/app';
 
 import 'firebase/auth';
 import 'firebase/firestore';
@@ -18,6 +18,9 @@ const rrfConfig = {
   appId: '1:900162737404:web:128404b4cc3e2dd2e7b379',
   measurementId: 'G-5LTGM6G78M'
 };
-const firebase = firebaseLib.initializeApp(rrfConfig, 'landing');
+const getFirebase = () => {
+  if (typeof window !== 'undefined') return firebase.initializeApp(rrfConfig, 'admin');
+  return null;
+};
 
-export { ReactReduxFirebaseProvider, fbConfig, firebaseReducer, firebase };
+export { ReactReduxFirebaseProvider, fbConfig, firebaseReducer, getFirebase };

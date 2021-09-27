@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from '../../';
 
-const MobileLogo = require('../../assets/layout/logo_mobile.svg');
+import MobileLogo from '../../assets/layout/logo_mobile.svg';
 
 const SidebarLogo = () => {
   return (
