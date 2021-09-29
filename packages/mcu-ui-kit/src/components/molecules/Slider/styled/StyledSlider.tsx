@@ -24,6 +24,8 @@ export const StyledSlider = styled.div`
     }
     .swiper-pagination {
       position: relative;
+      margin-top: -100px;
+      padding-bottom: 30px;
     }
   }
 
@@ -45,17 +47,16 @@ export const StyledSlider = styled.div`
 
   .swiper-pagination-bullet {
     line-height: ${rem('10px')};
-    height: ${rem('15px')};
-    width: ${rem('15px')};
+    height: ${rem(5)};
+    width: ${rem(20)};
     cursor: pointer;
-    color: lightgrey;
+    background-color: #ffffff;
   }
 
   span.swiper-pagination-bullet-active {
-    width: 1.5em;
-    border-radius: 8px;
+    width: 3em;
     transition: width 0.2s linear;
-    background: 'red';
+    background-color: #c7c7c7;
   }
 
   .hero-content {
