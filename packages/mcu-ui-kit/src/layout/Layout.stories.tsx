@@ -4,6 +4,7 @@ import { Meta } from '@storybook/react';
 import { MainLayout } from './';
 import { HeroSlider } from '../';
 import languageData from './__mocks/languageData';
+import { TranslucentCard } from '../components';
 
 export default {
   title: 'Layout/Main',
@@ -104,6 +105,13 @@ export const base = ({ message }) => {
           ]
         }}
       />
+      <TranslucentCard
+        payload={[
+          { title: 'title', label: 'label', active: false, link: '', icon: '' },
+          { title: 'title 2', label: 'label', active: false, link: '', icon: '' }
+        ]}
+      />
+
       <br />
       <br />
       <br />
