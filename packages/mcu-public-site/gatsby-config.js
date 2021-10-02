@@ -14,9 +14,8 @@ module.exports = {
         tsNode: true,
       },
     },
-    "gatsby-plugin-sass",
-    "gatsby-plugin-react-helmet",
-    "gatsby-plugin-image",
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-image',
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -52,8 +51,8 @@ module.exports = {
         icon: "src/images/favicon.svg",
       },
     },
-    "mcu-private-site",
-    "mcu-marketplace-site",
+    //"mcu-private-site",
+    //"mcu-marketplace-site",
     // 'gatsby-plugin-gatsby-cloud'
   ],
 }

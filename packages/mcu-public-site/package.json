@@ -30,7 +30,14 @@
     "swiper": "^6.7.5",
     "mcu-private-site": "*",
     "mcu-marketplace-site": "*",
-    "mcu-ui-kit": "*"
+    "mcu-ui-kit": "*",
+    "firebase": "^8.9.1",
+    "polished": "^4.1.3",
+    "react-redux": "^7.2.4",
+    "react-redux-firebase": "^3.10.0",
+    "redux": "^4.1.1",
+    "redux-saga": "^1.1.3",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@types/google-map-react": "^2.1.2",
