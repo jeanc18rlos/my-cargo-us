@@ -18,7 +18,6 @@ export const TranslucentCard = (props: Props) => {
       <Swiper
         loop={true}
         slidesPerView={3}
-        pagination={{ clickable: true }}
         spaceBetween={0}
         breakpoints={{
           '240': {
