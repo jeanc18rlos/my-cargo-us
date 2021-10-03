@@ -4,14 +4,12 @@ import { rem } from 'polished';
 export const StyledSlider = styled.div`
   padding-bottom: 40px;
   .swiper-container {
-    min-height: 70vh;
     height: fit-content;
     width: 100%;
     flex-direction: column-reverse;
     display: flex;
     margin-bottom: ${rem('-80px')};
     .caption {
-      min-height: 70vh;
       padding-top: 220px;
       display: flex;
       justify-content: center;

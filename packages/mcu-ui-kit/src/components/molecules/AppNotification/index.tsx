@@ -1,4 +1,3 @@
-import React from 'react';
 import NotificationItem from './NotificationItem';
 import { notifications } from './data';
 import { CustomScrollbars } from '../../../';

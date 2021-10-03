@@ -9,6 +9,7 @@ import { IntlProvider } from 'react-intl';
 import 'antd/dist/antd.css';
 import './legacy.css';
 import './vendors/style';
+import '../assets/css/swiper-bundle.css';
 
 import { ThemeInterface } from '.';
 
