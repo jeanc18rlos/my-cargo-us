@@ -36,7 +36,7 @@ const componentGenerator = {
       },
       {
         type: 'add',
-        path: '../src/components/{{properCase type}}s/{{properCase name}}/styled/Styled{{properCase name}}.tsx',
+        path: '../src/components/{{properCase type}}s/{{properCase name}}/styled/index.tsx',
         templateFile: './componentName.styled.tsx.hbs',
         abortOnFail: true,
       },

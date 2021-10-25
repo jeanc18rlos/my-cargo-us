@@ -1,22 +1,26 @@
-import { withInfo } from '@storybook/addon-info';
-import { text, withKnobs } from "@storybook/addon-knobs";
-import React from "react";
-import { jsxDecorator } from 'storybook-addon-jsx';
+import React from 'react';
+import { {{ properCase name }} } from ".";
+import { Meta } from '@storybook/react';
 
-import {{ properCase name }} from ".";
 
 export default {
-    title: 'Components/{{ properCase type }}s/{{ properCase name }}',
-    component: {{ properCase name }},
-    decorators: [withKnobs, jsxDecorator, withInfo],
-    parameters: {
-        backgrounds: [{ name: 'default', value: 'rgb(255, 255, 255)', default: true }],
+  title: 'Components/{{ properCase type }}s/{{ properCase name }}',
+  component: {{ properCase name }},
+  argTypes: {
+    color: {
+      options: ['red', 'blue', 'green'],
+      control: { type: 'radio' },
+      defaultValue: 'red'
     },
-};
+    text: {
+      control: { type: 'text' },
+      defaultValue: 'hello world'
+    }
+  }
+} as Meta;
 
-
-export const base = () => (
-  <{{ properCase name }}>
-    {text("Label", "Default")}
+export const base = ({color, text}:any) => (
+  <{{ properCase name }} {...{color}}>
+    {text}
   </{{ properCase name }}>
 );

@@ -1,8 +1,12 @@
-import { memo } from "react"; type
-{{properCase name}}Props = { children: React.ReactNode; } const
-{{properCase name}}
-= ({ children, }:{{properCase name}}Props) => (
-<div>
+import { memo,HTMLProps, ReactNode, FC } from "react";
+import { Styled{{properCase name}} } from "./styled";
+
+type {{properCase name}}Props = { color: string } 
+ 
+const {{properCase name}}: FC<{{properCase name}}Props & HTMLProps<ReactNode>> = ({ children }) => (
+<Styled{{properCase name}}>
   {children}
-</div>
-); export default memo({{properCase name}});
+</Styled{{properCase name}}>
+); 
+
+export default memo({{properCase name}});

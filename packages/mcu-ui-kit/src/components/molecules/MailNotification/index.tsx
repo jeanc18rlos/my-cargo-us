@@ -1,8 +1,6 @@
-import React from 'react';
-
 import NotificationItem from './NotificationItem';
 import { notifications } from './data';
-import { CustomScrollbars } from '../../../';
+import { CustomScrollbars } from '../../../utils';
 
 export const MailNotification = () => {
   return (

@@ -1,1 +1,0 @@
-export { SingleShortcutsAtom } from './TranslucentCard';

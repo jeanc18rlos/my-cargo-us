@@ -1,4 +1,4 @@
-import React, { HTMLProps, ReactNode } from 'react';
+import { HTMLProps, ReactNode } from 'react';
 
 export const Link = (props: { to: string; children: ReactNode } & HTMLProps<any>) => {
   const { to, children, ...rest } = props;

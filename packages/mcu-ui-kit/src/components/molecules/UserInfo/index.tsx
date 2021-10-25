@@ -1,4 +1,3 @@
-import React from 'react';
 import { Avatar, Popover } from 'antd';
 
 export const UserInfo = () => {

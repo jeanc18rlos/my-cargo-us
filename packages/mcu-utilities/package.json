@@ -1,0 +1,7 @@
+{
+  "name": "mcu-utilities",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Jean Rojas",
+  "license": "MIT"
+}

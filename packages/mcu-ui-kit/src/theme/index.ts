@@ -1,5 +1,4 @@
-export { default as ThemeProvider, Media } from './provider';
-
+export { default as ThemeProvider } from './provider';
 export interface ThemeInterface {
   colors: {
     blue: {

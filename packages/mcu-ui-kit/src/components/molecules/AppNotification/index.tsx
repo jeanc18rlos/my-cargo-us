@@ -1,6 +1,6 @@
 import NotificationItem from './NotificationItem';
 import { notifications } from './data';
-import { CustomScrollbars } from '../../../';
+import { CustomScrollbars } from '../../../utils';
 
 export const AppNotification = () => {
   return (

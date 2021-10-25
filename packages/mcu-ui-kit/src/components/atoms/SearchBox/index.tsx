@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const SearchBox = ({ styleName, placeholder, onChange, value }: any) => {
   return (
     <div className={`gx-search-bar ${styleName}`}>

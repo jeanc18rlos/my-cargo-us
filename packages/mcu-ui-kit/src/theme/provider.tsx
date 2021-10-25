@@ -1,8 +1,7 @@
-import React from 'react';
 import { ThemeProvider as Provider } from 'styled-components';
-import { createMedia } from '@artsy/fresnel';
+import MediaContextProvider from './config/breakpoints';
 
-import { AppLocale } from '../';
+import { AppLocale } from '../utils';
 import { ConfigProvider } from 'antd';
 import { IntlProvider } from 'react-intl';
 
@@ -12,18 +11,7 @@ import './vendors/style';
 import '../assets/css/swiper-bundle.css';
 
 import { ThemeInterface } from '.';
-
-const { MediaContextProvider, Media } = createMedia({
-  breakpoints: {
-    xxs: 320,
-    xs: 420,
-    sm: 560,
-    md: 768,
-    lg: 1024,
-    xl: 1192,
-    xxl: 1440
-  }
-});
+import { LayoutProvider } from '../config';
 
 type ThemeProviderProps = { children: any; theme: ThemeInterface };
 
@@ -40,7 +28,7 @@ const ThemeProvider = ({ children, theme }: ThemeProviderProps) => (
     <MediaContextProvider>
       <ConfigProvider locale={AppLocale[locale.locale].antd} direction={isDirectionRTL ? 'rtl' : 'ltr'}>
         <IntlProvider locale={AppLocale[locale.locale].locale} messages={AppLocale[locale.locale].messages}>
-          {children}
+          <LayoutProvider> {children} </LayoutProvider>
         </IntlProvider>
       </ConfigProvider>
     </MediaContextProvider>
@@ -48,5 +36,3 @@ const ThemeProvider = ({ children, theme }: ThemeProviderProps) => (
 );
 
 export default ThemeProvider;
-
-export { Media };
